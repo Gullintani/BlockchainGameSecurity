@@ -1,0 +1,10 @@
+The data was scrapped from State of Dapp. Here list the site map used.
+
+1 Page:
+{"_id":"stateofdapp-eth-games-smart-contract-address","startUrl":["https://www.stateofthedapps.com/zh/rankings/platform/ethereum/category/games"],"selectors":[{"id":"Name","type":"SelectorLink","parentSelectors":["_root"],"selector":"h4.name a","multiple":true,"delay":0},{"id":"address","type":"SelectorText","parentSelectors":["Name"],"selector":"a.contract-address-value span","multiple":true,"regex":"","delay":0}]}
+
+2-6 Page (seems reached maximum records):
+{"_id":"stateofdapp-eth-games-2to8","startUrl":["https://www.stateofthedapps.com/rankings/platform/ethereum/category/games?page=[2-8]"],"selectors":[{"id":"Name","type":"SelectorLink","parentSelectors":["_root"],"selector":"h4.name a","multiple":true,"delay":0},{"id":"address","type":"SelectorText","parentSelectors":["Name"],"selector":"a.contract-address-value span","multiple":true,"regex":"","delay":0}]}
+
+7-8 Page (seems reached maximum records):
+{"_id":"stateofdapp-eth-games-2to8","startUrl":["https://www.stateofthedapps.com/rankings/platform/ethereum/category/games?page=[7-8]"],"selectors":[{"id":"Name","type":"SelectorLink","parentSelectors":["_root"],"selector":"h4.name a","multiple":true,"delay":0},{"id":"address","type":"SelectorText","parentSelectors":["Name"],"selector":"a.contract-address-value span","multiple":true,"regex":"","delay":0}]}
