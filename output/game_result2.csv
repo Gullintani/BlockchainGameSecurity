@@ -1,0 +1,374 @@
+CryptoBots: Idle,0x2073ea9e55695a2c528b035813ca113540545184,1623,Exception State,Low,_function_0x131d9a27,1623,110,3928,2369,"{
+    ""1"": {
+        ""calldata"": ""0x131d9a27"",
+        ""call_value"": ""0x0"",
+        ""caller"": ""0xdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef""
+    }
+}","A reachable exception has been detected.
+It is possible to trigger an exception (opcode 0xfe). Exceptions can be caused by type errors, division by zero, out-of-bounds array access, or assert violations. Note that explicit `assert()` should only be used to check invariants. Use `require()` for regular input checking."
+CryptoBots: Idle,0x2073ea9e55695a2c528b035813ca113540545184,2056,Exception State,Low,"bid(uint256,uint256)",2056,110,1628,870,"{
+    ""1"": {
+        ""calldata"": ""0x598647f840"",
+        ""call_value"": ""0x0"",
+        ""caller"": ""0xdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef""
+    }
+}","A reachable exception has been detected.
+It is possible to trigger an exception (opcode 0xfe). Exceptions can be caused by type errors, division by zero, out-of-bounds array access, or assert violations. Note that explicit `assert()` should only be used to check invariants. Use `require()` for regular input checking."
+CryptoBots: Idle,0xb33f17e0e3a339a769ec54e5a1104a3d51551de0,533,Integer Overflow,High,_function_0x738c20ca,533,101,4266,1111,"{
+    ""1"": {
+        ""calldata"": ""0x738c20cafffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc"",
+        ""call_value"": ""0x0"",
+        ""caller"": ""0xdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef""
+    }
+}","The binary addition can overflow.
+The operands of the addition operation are not sufficiently constrained. The addition could therefore result in an integer overflow. Prevent the overflow by checking inputs or ensure sure that the overflow is caught by an assertion."
+CryptoBots: Idle,0xb33f17e0e3a339a769ec54e5a1104a3d51551de0,5899,Integer Overflow,High,_function_0x738c20ca,5899,101,4314,1159,"{
+    ""1"": {
+        ""calldata"": ""0x738c20ca0000000000000000000000000000000000000000000000000000000000000000800000000000000000000000000000000000000000000000000000000000000162"",
+        ""call_value"": ""0x0"",
+        ""caller"": ""0xdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef""
+    }
+}","The binary multiplication can overflow.
+The operands of the multiplication operation are not sufficiently constrained. The multiplication could therefore result in an integer overflow. Prevent the overflow by checking inputs or ensure sure that the overflow is caught by an assertion."
+CryptoBots: Idle,0xb33f17e0e3a339a769ec54e5a1104a3d51551de0,5947,Exception State,Low,_function_0xada1ddca,5947,110,1512,1037,"{
+    ""1"": {
+        ""calldata"": ""0x738c20ca"",
+        ""call_value"": ""0x0"",
+        ""caller"": ""0xdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef""
+    },
+    ""3"": {
+        ""calldata"": ""0xada1ddca0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001"",
+        ""call_value"": ""0x0"",
+        ""caller"": ""0xdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef""
+    }
+}","A reachable exception has been detected.
+It is possible to trigger an exception (opcode 0xfe). Exceptions can be caused by type errors, division by zero, out-of-bounds array access, or assert violations. Note that explicit `assert()` should only be used to check invariants. Use `require()` for regular input checking."
+CryptoBots: Idle,0xf7f018de6efa79b04f04458412a09eecd43fdccb
+CryptoBots: Idle,0xd6077754a0b57ab780e5be4c795f5ac9e08c0d6e,834,Integer Overflow,High,"batchTransfer(address[],uint256)",834,101,4408,1113,"{
+    ""1"": {
+        ""calldata"": ""0x83f12fecfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc"",
+        ""call_value"": ""0x0"",
+        ""caller"": ""0xdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef""
+    }
+}","The binary addition can overflow.
+The operands of the addition operation are not sufficiently constrained. The addition could therefore result in an integer overflow. Prevent the overflow by checking inputs or ensure sure that the overflow is caught by an assertion."
+CryptoBots: Idle,0xd6077754a0b57ab780e5be4c795f5ac9e08c0d6e,838,Integer Overflow,High,"batchTransfer(address[],uint256)",838,101,4408,1113,"{
+    ""1"": {
+        ""calldata"": ""0x83f12fec80"",
+        ""call_value"": ""0x0"",
+        ""caller"": ""0xdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef""
+    }
+}","The binary multiplication can overflow.
+The operands of the multiplication operation are not sufficiently constrained. The multiplication could therefore result in an integer overflow. Prevent the overflow by checking inputs or ensure sure that the overflow is caught by an assertion."
+CryptoBots: Idle,0xd6077754a0b57ab780e5be4c795f5ac9e08c0d6e,863,Integer Overflow,High,"batchTransfer(address[],uint256)",863,101,4475,1180,"{
+    ""1"": {
+        ""calldata"": ""0x83f12fecffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffe0"",
+        ""call_value"": ""0x0"",
+        ""caller"": ""0xdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef""
+    }
+}","The binary addition can overflow.
+The operands of the addition operation are not sufficiently constrained. The addition could therefore result in an integer overflow. Prevent the overflow by checking inputs or ensure sure that the overflow is caught by an assertion."
+CryptoBots: Idle,0xd6077754a0b57ab780e5be4c795f5ac9e08c0d6e,1069,Integer Overflow,High,fallback,1069,101,1063,685,"{
+    ""1"": {
+        ""calldata"": ""0x06fdde03"",
+        ""call_value"": ""0x0"",
+        ""caller"": ""0xdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef""
+    }
+}","The binary addition can overflow.
+The operands of the addition operation are not sufficiently constrained. The addition could therefore result in an integer overflow. Prevent the overflow by checking inputs or ensure sure that the overflow is caught by an assertion."
+CryptoBots: Idle,0xd6077754a0b57ab780e5be4c795f5ac9e08c0d6e,2327,Integer Overflow,High,"[link_classic_internal(uint64,int64), symbol()] (ambiguous)",2327,101,1359,981,"{
+    ""1"": {
+        ""calldata"": ""0x95d89b41"",
+        ""call_value"": ""0x0"",
+        ""caller"": ""0xdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef""
+    }
+}","The binary addition can overflow.
+The operands of the addition operation are not sufficiently constrained. The addition could therefore result in an integer overflow. Prevent the overflow by checking inputs or ensure sure that the overflow is caught by an assertion."
+CryptoBots: Idle,0xd6077754a0b57ab780e5be4c795f5ac9e08c0d6e,2706,Integer Overflow,High,"[gasprice_bit_ether(int128), transferFrom(address,address,uint256)] (ambiguous)",2706,101,1729,784,"{
+    ""1"": {
+        ""calldata"": ""0x095ea7b30000000000000000000000000000000000000000000000000000000000000000e9"",
+        ""call_value"": ""0x0"",
+        ""caller"": ""0xdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef""
+    },
+    ""2"": {
+        ""calldata"": ""0x23b872dd0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000050"",
+        ""call_value"": ""0x0"",
+        ""caller"": ""0xdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef""
+    }
+}","The binary addition can overflow.
+The operands of the addition operation are not sufficiently constrained. The addition could therefore result in an integer overflow. Prevent the overflow by checking inputs or ensure sure that the overflow is caught by an assertion."
+CryptoBots: Idle,0xd6077754a0b57ab780e5be4c795f5ac9e08c0d6e,2738,Exception State,Low,"[many_msg_babbage(bytes1), transfer(address,uint256)] (ambiguous)",2738,110,1978,1033,"{
+    ""1"": {
+        ""calldata"": ""0x23b872ddededededededededededededededededededededededededededededededededededededededededededededb7b35355856492933c9a9fcec2a1ed9c13540e4b"",
+        ""call_value"": ""0x0"",
+        ""caller"": ""0xdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef""
+    },
+    ""3"": {
+        ""calldata"": ""0xa9059cbb000000000000000000000000000000000000000000000000000000000000000001"",
+        ""call_value"": ""0x0"",
+        ""caller"": ""0xdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef""
+    }
+}","A reachable exception has been detected.
+It is possible to trigger an exception (opcode 0xfe). Exceptions can be caused by type errors, division by zero, out-of-bounds array access, or assert violations. Note that explicit `assert()` should only be used to check invariants. Use `require()` for regular input checking."
+CryptoBots: Idle,0xd6077754a0b57ab780e5be4c795f5ac9e08c0d6e,2768,Integer Overflow,High,"batchTransfer(address[],uint256)",2768,101,4475,1180,"{
+    ""1"": {
+        ""calldata"": ""0x83f12fec800000000000000000000200000000000000000000000000000000000000000184"",
+        ""call_value"": ""0x0"",
+        ""caller"": ""0xdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef""
+    }
+}","The binary multiplication can overflow.
+The operands of the multiplication operation are not sufficiently constrained. The multiplication could therefore result in an integer overflow. Prevent the overflow by checking inputs or ensure sure that the overflow is caught by an assertion."
+CryptoCanvas,0xe06ac2eba65F7184aAE3cA2A0Cb1cFdC604B765f
+CryptoCare,0xDe870FD5DcAbc964C0c56DBf80Ccb1cCed5ad208,2205,External Call To Fixed Address,Low,"tokenOfOwnerByIndex(address,uint256)",2205,107,2449,1553,"{
+    ""1"": {
+        ""calldata"": ""0x2f745c59"",
+        ""call_value"": ""0x0"",
+        ""caller"": ""0xdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef""
+    }
+}","The contract executes an external message call.
+An external function call to a fixed contract address is executed. Make sure that the callee contract has been reviewed carefully."
+CryptoCare,0xe7049a081f67f1ff4bdbdbf4c48c547d24c48f41
+CryptoChars,0x7EDA2301cb535e2EA8ea06237f6443b6268e2b2A,2139,Exception State,Low,getChar(uint256),2139,110,778,683,"{
+    ""1"": {
+        ""calldata"": ""0x0ff88a8d04"",
+        ""call_value"": ""0x0"",
+        ""caller"": ""0xdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef""
+    }
+}","A reachable exception has been detected.
+It is possible to trigger an exception (opcode 0xfe). Exceptions can be caused by type errors, division by zero, out-of-bounds array access, or assert violations. Note that explicit `assert()` should only be used to check invariants. Use `require()` for regular input checking."
+CryptoChars,0x7EDA2301cb535e2EA8ea06237f6443b6268e2b2A,2173,Integer Overflow,High,getChar(uint256),2173,101,1786,1313,"{
+    ""1"": {
+        ""calldata"": ""0x0ff88a8d"",
+        ""call_value"": ""0x0"",
+        ""caller"": ""0xdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef""
+    }
+}","The binary addition can overflow.
+The operands of the addition operation are not sufficiently constrained. The addition could therefore result in an integer overflow. Prevent the overflow by checking inputs or ensure sure that the overflow is caught by an assertion."
+CryptoCities,0x2C063A26BAe823A7497Cb4bfD2b9dc5D4d124A16,3678,Integer Overflow,High,_function_0x857d7717,3678,101,960,865,"{
+    ""1"": {
+        ""calldata"": ""0x857d771700000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000c0120cb1e0402818802036401529a885e84c10820d8a43502221031900b8010f8"",
+        ""call_value"": ""0x0"",
+        ""caller"": ""0xdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef""
+    }
+}","The binary addition can overflow.
+The operands of the addition operation are not sufficiently constrained. The addition could therefore result in an integer overflow. Prevent the overflow by checking inputs or ensure sure that the overflow is caught by an assertion."
+CryptoCities,0x2C063A26BAe823A7497Cb4bfD2b9dc5D4d124A16,3680,Integer Overflow,High,_function_0x857d7717,3680,101,960,865,"{
+    ""1"": {
+        ""calldata"": ""0x857d771700000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000009c3c8146247f20a412a2d0c78cedc274228c94898d118b5048c08f95020550082c00090004fd07803000338477a1100104038a022204301c04406448200b104280"",
+        ""call_value"": ""0x0"",
+        ""caller"": ""0xdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef""
+    }
+}","The binary addition can overflow.
+The operands of the addition operation are not sufficiently constrained. The addition could therefore result in an integer overflow. Prevent the overflow by checking inputs or ensure sure that the overflow is caught by an assertion."
+CryptoCities,0x74De47fEe8F94235c6E76E0ac425511bCd2eF83f
+CryptoCities,0x134c5dE7D7580a2d4a9375d3f70bDCC7dee1E098
+CryptoCities,0x116d4396de572cacdb230ca34cb8e8449f50dda3,117,Multiple Calls in a Single Transaction,Medium,_function_0x44da8716,117,113,77929,4760,,"Multiple sends are executed in one transaction.
+Consecutive calls are executed at the following bytecode offsets:
+Offset: 721
+Offset: 972
+Try to isolate each external call into its own transaction, as external calls can fail accidentally or deliberately.
+"
+CryptoCities,0x116d4396de572cacdb230ca34cb8e8449f50dda3,721,External Call To Fixed Address,Low,_function_0x44da8716,721,107,3898,1589,"{
+    ""1"": {
+        ""calldata"": ""0x44da871600000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001"",
+        ""call_value"": ""0x0"",
+        ""caller"": ""0xdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef""
+    }
+}","The contract executes an external message call.
+An external function call to a fixed contract address is executed. Make sure that the callee contract has been reviewed carefully."
+CryptoCities,0x116d4396de572cacdb230ca34cb8e8449f50dda3,972,External Call To Fixed Address,Low,_function_0x44da8716,972,107,43094,3925,"{
+    ""1"": {
+        ""calldata"": ""0x44da871600000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001"",
+        ""call_value"": ""0x0"",
+        ""caller"": ""0xdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef""
+    }
+}","The contract executes an external message call.
+An external function call to a fixed contract address is executed. Make sure that the callee contract has been reviewed carefully."
+CryptoCities,0xd137ed189a8a3e9bf5541431c9b9ff1d4eb5c196
+CryptoCities,0x53a66c4d213a088eb1d83bcf063e02205aa5215a,1331,External Call To Fixed Address,Low,_function_0x322c3215,1331,107,4024,2045,"{
+    ""1"": {
+        ""calldata"": ""0x322c321500000000000000000000000000000000000000000000000001"",
+        ""call_value"": ""0x0"",
+        ""caller"": ""0xdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef""
+    }
+}","The contract executes an external message call.
+An external function call to a fixed contract address is executed. Make sure that the callee contract has been reviewed carefully."
+CryptoCities,0x53a66c4d213a088eb1d83bcf063e02205aa5215a,2741,External Call To Fixed Address,Low,_function_0xb3091c9b,2741,107,3699,2050,"{
+    ""1"": {
+        ""calldata"": ""0xb3091c9b"",
+        ""call_value"": ""0x0"",
+        ""caller"": ""0xdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef""
+    }
+}","The contract executes an external message call.
+An external function call to a fixed contract address is executed. Make sure that the callee contract has been reviewed carefully."
+CryptoCocktailBar,0xFc9350C3487bACFCEF104c024Cc98cb0b2ADBDd0
+CryptoCocktailBar,0xFc9350C3487bACFCEF104c024Cc98cb0b2ADBDd0
+CryptoCountries,0xa4bec96265c7b58486acd15de27a53e2a45b30a2,597,Integer Overflow,High,"itemsForSaleLimit(uint256,uint256)",597,101,2031,618,"{
+    ""1"": {
+        ""calldata"": ""0x5435bac8"",
+        ""call_value"": ""0x0"",
+        ""caller"": ""0xdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef""
+    }
+}","The binary multiplication can overflow.
+The operands of the multiplication operation are not sufficiently constrained. The multiplication could therefore result in an integer overflow. Prevent the overflow by checking inputs or ensure sure that the overflow is caught by an assertion."
+CryptoCountries,0xa4bec96265c7b58486acd15de27a53e2a45b30a2,618,Integer Overflow,High,"itemsForSaleLimit(uint256,uint256)",618,101,2541,752,"{
+    ""1"": {
+        ""calldata"": ""0x5435bac8"",
+        ""call_value"": ""0x0"",
+        ""caller"": ""0xdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef""
+    }
+}","The binary addition can overflow.
+The operands of the addition operation are not sufficiently constrained. The addition could therefore result in an integer overflow. Prevent the overflow by checking inputs or ensure sure that the overflow is caught by an assertion."
+CryptoCountries,0xa4bec96265c7b58486acd15de27a53e2a45b30a2,634,Integer Overflow,High,"itemsForSaleLimit(uint256,uint256)",634,101,2541,752,"{
+    ""1"": {
+        ""calldata"": ""0x5435bac8"",
+        ""call_value"": ""0x0"",
+        ""caller"": ""0xdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef""
+    }
+}","The binary addition can overflow.
+The operands of the addition operation are not sufficiently constrained. The addition could therefore result in an integer overflow. Prevent the overflow by checking inputs or ensure sure that the overflow is caught by an assertion."
+CryptoCountries,0xa4bec96265c7b58486acd15de27a53e2a45b30a2,1335,Exception State,Low,"itemsForSaleLimit(uint256,uint256)",1335,110,1862,918,"{
+    ""1"": {
+        ""calldata"": ""0x5435bac8800000000000000000000000000000000000000000000000000000000000000001"",
+        ""call_value"": ""0x0"",
+        ""caller"": ""0xdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef""
+    }
+}","A reachable exception has been detected.
+It is possible to trigger an exception (opcode 0xfe). Exceptions can be caused by type errors, division by zero, out-of-bounds array access, or assert violations. Note that explicit `assert()` should only be used to check invariants. Use `require()` for regular input checking."
+CryptoCountries,0xa4bec96265c7b58486acd15de27a53e2a45b30a2,1359,Exception State,Low,"itemsForSaleLimit(uint256,uint256)",1359,110,2539,1407,"{
+    ""1"": {
+        ""calldata"": ""0x5435bac8000000000000000000000000000000000000000000000000000000000000000001"",
+        ""call_value"": ""0x0"",
+        ""caller"": ""0xdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef""
+    }
+}","A reachable exception has been detected.
+It is possible to trigger an exception (opcode 0xfe). Exceptions can be caused by type errors, division by zero, out-of-bounds array access, or assert violations. Note that explicit `assert()` should only be used to check invariants. Use `require()` for regular input checking."
+CryptoCountries,0x92cb5f1fbabbcbdd891b9cbd8e9a056c8c1eebef
+CryptoCountries,0x1c61d42efafe3c627998f2d53d897dbfd99d7ff9,125,Integer Overflow,High,fallback,125,101,3078,303,"{
+    ""1"": {
+        ""calldata"": ""0x4ed3885effffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffe0"",
+        ""call_value"": ""0x0"",
+        ""caller"": ""0xdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef""
+    }
+}","The binary addition can overflow.
+The operands of the addition operation are not sufficiently constrained. The addition could therefore result in an integer overflow. Prevent the overflow by checking inputs or ensure sure that the overflow is caught by an assertion."
+CryptoCountries,0x1c61d42efafe3c627998f2d53d897dbfd99d7ff9,128,Integer Overflow,High,fallback,128,101,3078,303,"{
+    ""1"": {
+        ""calldata"": ""0x4ed3885efffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc"",
+        ""call_value"": ""0x0"",
+        ""caller"": ""0xdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef""
+    }
+}","The binary addition can overflow.
+The operands of the addition operation are not sufficiently constrained. The addition could therefore result in an integer overflow. Prevent the overflow by checking inputs or ensure sure that the overflow is caught by an assertion."
+CryptoCountries,0x1c61d42efafe3c627998f2d53d897dbfd99d7ff9,136,Integer Overflow,High,fallback,136,101,3078,303,"{
+    ""1"": {
+        ""calldata"": ""0x4ed3885e80"",
+        ""call_value"": ""0x0"",
+        ""caller"": ""0xdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef""
+    }
+}","The binary addition can overflow.
+The operands of the addition operation are not sufficiently constrained. The addition could therefore result in an integer overflow. Prevent the overflow by checking inputs or ensure sure that the overflow is caught by an assertion."
+CryptoCountries,0x1c61d42efafe3c627998f2d53d897dbfd99d7ff9,142,Integer Overflow,High,fallback,142,101,11023,4746,"{
+    ""1"": {
+        ""calldata"": ""0x4ed3885e80"",
+        ""call_value"": ""0x0"",
+        ""caller"": ""0xdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef""
+    },
+    ""3"": {
+        ""calldata"": ""0x4ed3885e91"",
+        ""call_value"": ""0x0"",
+        ""caller"": ""0xdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef""
+    }
+}","The binary addition can overflow.
+The operands of the addition operation are not sufficiently constrained. The addition could therefore result in an integer overflow. Prevent the overflow by checking inputs or ensure sure that the overflow is caught by an assertion."
+CryptoCountries,0x1c61d42efafe3c627998f2d53d897dbfd99d7ff9,148,Integer Overflow,High,fallback,148,101,33095,7399,"{
+    ""1"": {
+        ""calldata"": ""0x4ed3885e80"",
+        ""call_value"": ""0x0"",
+        ""caller"": ""0xdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef""
+    }
+}","The binary addition can overflow.
+The operands of the addition operation are not sufficiently constrained. The addition could therefore result in an integer overflow. Prevent the overflow by checking inputs or ensure sure that the overflow is caught by an assertion."
+CryptoCountries,0x1c61d42efafe3c627998f2d53d897dbfd99d7ff9,556,Integer Overflow,High,fallback,556,101,6626,1638,"{
+    ""1"": {
+        ""calldata"": ""0x4ed3885e80"",
+        ""call_value"": ""0x0"",
+        ""caller"": ""0xdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef""
+    }
+}","The binary addition can overflow.
+The operands of the addition operation are not sufficiently constrained. The addition could therefore result in an integer overflow. Prevent the overflow by checking inputs or ensure sure that the overflow is caught by an assertion."
+CryptoCountries,0x1c61d42efafe3c627998f2d53d897dbfd99d7ff9,1235,Integer Overflow,High,fallback,1235,101,3627,478,"{
+    ""1"": {
+        ""calldata"": ""0x4ed3885e81"",
+        ""call_value"": ""0x0"",
+        ""caller"": ""0xdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef""
+    }
+}","The binary addition can overflow.
+The operands of the addition operation are not sufficiently constrained. The addition could therefore result in an integer overflow. Prevent the overflow by checking inputs or ensure sure that the overflow is caught by an assertion."
+CryptoCountries,0x3012d31fcc4b6a7fa03bb0af1fba9639f405edea
+CryptoCovfefes,0x218d9C723464CD066345e004B282476a1995924B,3017,Exception State,Low,buyCovfefe(uint256),3017,110,1989,1374,"{
+    ""1"": {
+        ""calldata"": ""0x3eaa81280041"",
+        ""call_value"": ""0x0"",
+        ""caller"": ""0xdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef""
+    }
+}","A reachable exception has been detected.
+It is possible to trigger an exception (opcode 0xfe). Exceptions can be caused by type errors, division by zero, out-of-bounds array access, or assert violations. Note that explicit `assert()` should only be used to check invariants. Use `require()` for regular input checking."
+CryptoCrystal,0x5116c1d70e3a2cf55a2502d05f1bc17a0518782e,7580,Integer Overflow,High,"increaseApproval(address,uint256)",7580,101,1699,1224,"{
+    ""1"": {
+        ""calldata"": ""0x095ea7b30000000000000000000000000000000000000000000000000000000000000000cb"",
+        ""call_value"": ""0x0"",
+        ""caller"": ""0xdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef""
+    },
+    ""2"": {
+        ""calldata"": ""0xd73dd623000000000000000000000000000000000000000000000000000000000000000091"",
+        ""call_value"": ""0x0"",
+        ""caller"": ""0xdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef""
+    }
+}","The binary addition can overflow.
+The operands of the addition operation are not sufficiently constrained. The addition could therefore result in an integer overflow. Prevent the overflow by checking inputs or ensure sure that the overflow is caught by an assertion."
+CryptoCrystal,0xcec76159cb10f8c110e738809e4ee4b71f1de12e
+CryptoCrystal,0xb6e928db347dbaad2c06868b716a2cf488904574
+CryptoCrystal,0x443e8c4cd680865246bc96bc2af936381dbae178
+CryptoCrystal,0xcfbc9103362aec4ce3089f155c2da2eea1cb7602
+CryptoCrystal,0x17f19e0571997aa11b2143b0fad77b70385b9af8
+CryptoCultures,0x76825880Cb019Be4E9a0C0CEc2843760709b9Dc0,2344,Integer Overflow,High,fallback,2344,101,1421,713,"{
+    ""1"": {
+        ""calldata"": ""0x06fdde03"",
+        ""call_value"": ""0x0"",
+        ""caller"": ""0xdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef""
+    }
+}","The binary addition can overflow.
+The operands of the addition operation are not sufficiently constrained. The addition could therefore result in an integer overflow. Prevent the overflow by checking inputs or ensure sure that the overflow is caught by an assertion."
+CryptoDogz,0x542fFFa898F4c18fF2A519604977D9B7A41Da0Be,590,Integer Overflow,High,name(),590,101,1787,469,"{
+    ""1"": {
+        ""calldata"": ""0x06fdde0380"",
+        ""call_value"": ""0x0"",
+        ""caller"": ""0xdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef""
+    }
+}","The binary addition can overflow.
+The operands of the addition operation are not sufficiently constrained. The addition could therefore result in an integer overflow. Prevent the overflow by checking inputs or ensure sure that the overflow is caught by an assertion."
+CryptoDogz,0x542fFFa898F4c18fF2A519604977D9B7A41Da0Be,594,Integer Overflow,High,name(),594,101,1787,469,"{
+    ""1"": {
+        ""calldata"": ""0x06fdde0380"",
+        ""call_value"": ""0x0"",
+        ""caller"": ""0xdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef""
+    }
+}","The binary addition can overflow.
+The operands of the addition operation are not sufficiently constrained. The addition could therefore result in an integer overflow. Prevent the overflow by checking inputs or ensure sure that the overflow is caught by an assertion."
+CryptoDogz,0x542fFFa898F4c18fF2A519604977D9B7A41Da0Be,612,Integer Overflow,High,name(),612,101,1583,453,"{
+    ""1"": {
+        ""calldata"": ""0x06fdde0380"",
+        ""call_value"": ""0x0"",
+        ""caller"": ""0xdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef""
+    }
+}","The binary addition can overflow.
+The operands of the addition operation are not sufficiently constrained. The addition could therefore result in an integer overflow. Prevent the overflow by checking inputs or ensure sure that the overflow is caught by an assertion."
+CryptoDozer,0xa506758544a71943b5e8728d2DF8EC9E72473a9A,2011,External Call To Fixed Address,Low,fallback,2011,107,65292,9504,"{
+    ""1"": {
+        ""calldata"": ""0x"",
+        ""call_value"": ""0x1"",
+        ""caller"": ""0xdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef""
+    }
+}","The contract executes an external message call.
+An external function call to a fixed contract address is executed. Make sure that the callee contract has been reviewed carefully."
