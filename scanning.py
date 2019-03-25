@@ -1,16 +1,16 @@
 import csv, os, json, gc
 gc.disable()
-inputCSV = open("./input/name&address2.csv", "r")
+inputCSV = open("./input/gamble_name&address.csv", "r")
 reader = csv.reader(inputCSV)
 
-outputCSV = open("./output/game_result2.csv", "w")
+outputCSV = open("./output/gamble_result.csv", "w")
 writer = csv.writer(outputCSV)
 # 
 def get_result():
     for item in reader:
         try:
             output = ""
-            output = os.popen("docker run mythril/myth -xo json -a " + item[1] + " --execution-timeout 60", "r")
+            output = os.popen("docker run mythril/myth -xo json -a " + item[1] + " --execution-timeout 100", "r")
             if output == None:
                 del output
                 continue

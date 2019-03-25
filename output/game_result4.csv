@@ -1,30 +1,479 @@
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
+ExoPlanets,0xb12E260275BcD28E6f8820666Ba02C67c9600843,4121,Exception State,Low,fallback,4121,110,2056,829
+ExoPlanets,0xb12E260275BcD28E6f8820666Ba02C67c9600843,5786,Exception State,Low,getTechBonus2(uint256),5786,110,1280,902
+ExoPlanets,0xb12E260275BcD28E6f8820666Ba02C67c9600843,5985,Exception State,Low,getNickname(uint256),5985,110,1302,924
+ExoPlanets,0xb12E260275BcD28E6f8820666Ba02C67c9600843,6321,Exception State,Low,getPlanetName(uint256),6321,110,1390,1012
+ExoPlanets,0xb12E260275BcD28E6f8820666Ba02C67c9600843,7353,Exception State,Low,getLifeRate(uint256),7353,110,1314,1219
+ExoPlanets,0xb12E260275BcD28E6f8820666Ba02C67c9600843,8536,Exception State,Low,getPriceInExoTokens(uint256),8536,110,1468,1373
+FABG,0x7a82f2a3f81499408268358e5f6412a0fdd8742e,1810,Integer Overflow,High,fallback,1810,101,3271,1530
+FABG,0x7a82f2a3f81499408268358e5f6412a0fdd8742e,4147,Integer Overflow,High,"[link_classic_internal(uint64,int64), symbol()] (ambiguous)",4147,101,3821,2080
+FABG,0x7a82f2a3f81499408268358e5f6412a0fdd8742e,5488,Exception State,Low,"decreaseAllowance(address,uint256)",5488,110,3339,1874
+FABG,0xE49A852Bf55736d76B483632B9B78d04646CC15a,669,External Call To Fixed Address,Low,fallback,669,107,2959,1828
+FABG,0xE49A852Bf55736d76B483632B9B78d04646CC15a,901,External Call To Fixed Address,Low,fallback,901,107,39903,3880
+FABG,0xE49A852Bf55736d76B483632B9B78d04646CC15a,1120,External Call To Fixed Address,Low,fallback,1120,107,77554,5979
+FABG,0x6be9894bb589e7d7656a7805040144bbf157bbaf,2017,Integer Overflow,High,name(),2017,101,3314,1573
+FABG,0x6be9894bb589e7d7656a7805040144bbf157bbaf,4681,Integer Overflow,High,"[link_classic_internal(uint64,int64), symbol()] (ambiguous)",4681,101,3776,2035
+Fair City,0xCE4BaDd1a985D06A5c700d5F6036C00C2232d3b0,2049,External Call To User-Supplied Address,Medium,balanceOf(address),2049,107,3866,1227
+Fair City,0x9b20dabcec77f6289113e61893f7beefaeb1990a,2294,External Call To Fixed Address,Low,"approveAndCall(address,uint256,bytes)",2294,107,35411,8560
+Fantasy Football Fund,0xcabfdd2aa4d0441fc5c39e3c8c46f94f7fe8fbd4
+Fantasy Football Fund,0x56434AD1E38a564E76eAe08c7118E5E7b450Aa6c,2900,External Call To Fixed Address,Low,_function_0x377e374b,2900,107,134162,12975
+Fantasy Football Fund,0x56434AD1E38a564E76eAe08c7118E5E7b450Aa6c,3146,Exception State,Low,_function_0x92af0762,3146,110,1216,791
+Fantasy Football Fund,0x56434AD1E38a564E76eAe08c7118E5E7b450Aa6c,4896,Exception State,Low,_function_0xedbad721,4896,110,1370,945
+Fantasy Football Fund,0x56434AD1E38a564E76eAe08c7118E5E7b450Aa6c,5629,Exception State,Low,getTotalDividendPool(),5629,110,1601,1176
+Fantasy Football Fund,0x1470826017ad2337d58742bb24bfeeea21d239ba
+Fantasy Football Fund,0xc4814d0a5f90a7ee7cea39794d520b0408ef0e1e
+Fantasy Football Fund,0xab85a9c289f1232a03eea1b98d1dc4e13f7cc2da
+Fantasy Football Fund,0x18df435a59119a7c549dacee24f53175dc799a85
+Fantasy Football Fund,0xc87dd8c8dc96c394424f1050a2b444d234cc3db1,3630,Exception State,Low,calculateTokenBuyPrice(uint256),3630,110,1643,1548
+Fantasy Football Fund,0x0d588358acf3e3621ee89025061217718e347d56,3630,Exception State,Low,calculateTokenBuyPrice(uint256),3630,110,1643,1548
+Fantasy Football Fund,0xa658f0d81193602deb5dd0d723fe935fd861f201,3630,Exception State,Low,calculateTokenBuyPrice(uint256),3630,110,1643,1548
+Fantasy Football Fund,0x3d200964b36b2bc58fede56408ed52c25a60aed6
+First Blood,0xaf30d2a7e90d7dc361c8c4585e9bb7d2f6f15bc7,427,Integer Overflow,High,fallback,427,101,38041,2158
+First Blood,0xaf30d2a7e90d7dc361c8c4585e9bb7d2f6f15bc7,1018,Integer Overflow,High,"[link_classic_internal(uint64,int64), symbol()] (ambiguous)",1018,101,38481,2598
+First Blood,0xaf30d2a7e90d7dc361c8c4585e9bb7d2f6f15bc7,1441,External Call To Fixed Address,Low,"buy(uint8,bytes32,bytes32)",1441,107,1986,950
+First Blood,0xaf30d2a7e90d7dc361c8c4585e9bb7d2f6f15bc7,1522,External Call To Fixed Address,Low,"buy(uint8,bytes32,bytes32)",1522,107,38251,2321
+First Blood,0xaf30d2a7e90d7dc361c8c4585e9bb7d2f6f15bc7,1641,Unchecked Call Return Value,Low,fallback,1641,104,38041,2158
+Fishbank,0x37c7d59a4f5af2dbd9bdf822aeed0ce08c6e0b62,2780,Exception State,Low,"approve(address,uint256)",2780,110,745,650
+Fishbank,0x37c7d59a4f5af2dbd9bdf822aeed0ce08c6e0b62,3059,Exception State,Low,getBoosterRaiseValue(uint256),3059,110,729,634
+Fishbank,0x37c7d59a4f5af2dbd9bdf822aeed0ce08c6e0b62,3116,Exception State,Low,getBoosterAmount(uint256),3116,110,751,656
+Fishbank,0x37c7d59a4f5af2dbd9bdf822aeed0ce08c6e0b62,3174,Exception State,Low,getBoosterStrength(uint256),3174,110,773,678
+Fishbank,0x37c7d59a4f5af2dbd9bdf822aeed0ce08c6e0b62,4082,Exception State,Low,ownerOf(uint256),4082,110,905,810
+Fishbank,0x37c7d59a4f5af2dbd9bdf822aeed0ce08c6e0b62,4156,Exception State,Low,getBoosterType(uint256),4156,110,927,832
+Fishbank,0x37c7d59a4f5af2dbd9bdf822aeed0ce08c6e0b62,4282,Exception State,Low,_function_0x70cd22ae,4282,110,968,873
+Fishbank,0x37c7d59a4f5af2dbd9bdf822aeed0ce08c6e0b62,4810,Exception State,Low,"[many_msg_babbage(bytes1), transfer(address,uint256)] (ambiguous)",4810,110,1144,1049
+Fishbank,0x37c7d59a4f5af2dbd9bdf822aeed0ce08c6e0b62,5225,Exception State,Low,getBoosterDuration(uint256),5225,110,1172,1077
+Fishbank,0x96e666c387B1d25B490A33CDB5a32b8A1F91D3B6,1722,Exception State,Low,"approve(address,uint256)",1722,110,723,628
+Fishbank,0x96e666c387B1d25B490A33CDB5a32b8A1F91D3B6,2386,Exception State,Low,_function_0x36541cc5,2386,110,814,719
+Fishbank,0x96e666c387B1d25B490A33CDB5a32b8A1F91D3B6,2582,Exception State,Low,ownerOf(uint256),2582,110,839,744
+Fishbank,0x96e666c387B1d25B490A33CDB5a32b8A1F91D3B6,2852,Exception State,Low,convertChest(uint256),2852,110,2021,1073
+Fishbank,0x96e666c387B1d25B490A33CDB5a32b8A1F91D3B6,9037,Exception State,Low,"[many_msg_babbage(bytes1), transfer(address,uint256)] (ambiguous)",9037,110,1012,917
+Fishbank,0xe8bbf054b788c98d9993be5513254d6b64a1ba97,4858,Exception State,Low,buyChest(uint16),4858,110,1503,460
+Fishbank,0xe8bbf054b788c98d9993be5513254d6b64a1ba97,6269,Exception State,Low,"approve(address,uint256)",6269,110,855,760
+Fishbank,0xe8bbf054b788c98d9993be5513254d6b64a1ba97,7083,Exception State,Low,_function_0x16709c22,7083,110,902,807
+Fishbank,0xe8bbf054b788c98d9993be5513254d6b64a1ba97,7815,Exception State,Low,_function_0x3fc83dc9,7815,110,656,561
+Fishbank,0xe8bbf054b788c98d9993be5513254d6b64a1ba97,8179,Exception State,Low,"applyBooster(uint256,uint256)",8179,110,1141,1046
+Fishbank,0xb0e674508eb1409b93a49a265f051bbf327eb5d9,1086,Multiple Calls in a Single Transaction,Medium,buyAuction(uint256),1086,113,302368,41311
+Fishbank,0xb0e674508eb1409b93a49a265f051bbf327eb5d9,2748,External Call To Fixed Address,Low,saveToken(uint256),2748,107,4624,2688
+Fishbank,0xb0e674508eb1409b93a49a265f051bbf327eb5d9,3455,External Call To Fixed Address,Low,"startAuction(uint256,uint256,uint256)",3455,107,3689,1940
+Fishbank,0xb0e674508eb1409b93a49a265f051bbf327eb5d9,3700,Integer Overflow,High,"startAuction(uint256,uint256,uint256)",3700,101,195899,36698
+Fishbank,0xb0e674508eb1409b93a49a265f051bbf327eb5d9,4979,External Call To Fixed Address,Low,buyAuction(uint256),4979,107,111486,6662
+Fishbank,0x989af9516c7466fff588121059c7f069a2f5bb49,1086,Multiple Calls in a Single Transaction,Medium,buyAuction(uint256),1086,113,302368,41311
+Fishbank,0x989af9516c7466fff588121059c7f069a2f5bb49,2748,External Call To Fixed Address,Low,saveToken(uint256),2748,107,4624,2688
+Fishbank,0x989af9516c7466fff588121059c7f069a2f5bb49,3455,External Call To Fixed Address,Low,"startAuction(uint256,uint256,uint256)",3455,107,3689,1940
+Fishbank,0x989af9516c7466fff588121059c7f069a2f5bb49,3700,Integer Overflow,High,"startAuction(uint256,uint256,uint256)",3700,101,195899,36698
+Fishbank,0x989af9516c7466fff588121059c7f069a2f5bb49,4979,External Call To Fixed Address,Low,buyAuction(uint256),4979,107,111486,6662
+Fishbank,0xee327625634e35a03Bc1F64deD8Ed2a061BA0978,1086,Multiple Calls in a Single Transaction,Medium,buyAuction(uint256),1086,113,302368,41311
+Fishbank,0xee327625634e35a03Bc1F64deD8Ed2a061BA0978,2748,External Call To Fixed Address,Low,saveToken(uint256),2748,107,4624,2688
+Fishbank,0xee327625634e35a03Bc1F64deD8Ed2a061BA0978,3455,External Call To Fixed Address,Low,"startAuction(uint256,uint256,uint256)",3455,107,3689,1940
+Fishbank,0xee327625634e35a03Bc1F64deD8Ed2a061BA0978,3700,Integer Overflow,High,"startAuction(uint256,uint256,uint256)",3700,101,195899,36698
+Fishbank,0xee327625634e35a03Bc1F64deD8Ed2a061BA0978,4979,External Call To Fixed Address,Low,buyAuction(uint256),4979,107,111486,6662
+Fishbank,0xe3f4383c19dbe7436261e63dd811e43dbed29890,1086,Multiple Calls in a Single Transaction,Medium,buyAuction(uint256),1086,113,302368,41311
+Fishbank,0xe3f4383c19dbe7436261e63dd811e43dbed29890,2748,External Call To Fixed Address,Low,saveToken(uint256),2748,107,4624,2688
+Fishbank,0xe3f4383c19dbe7436261e63dd811e43dbed29890,3455,External Call To Fixed Address,Low,"startAuction(uint256,uint256,uint256)",3455,107,3689,1940
+Fishbank,0xe3f4383c19dbe7436261e63dd811e43dbed29890,3700,Integer Overflow,High,"startAuction(uint256,uint256,uint256)",3700,101,195899,36698
+Fishbank,0xe3f4383c19dbe7436261e63dd811e43dbed29890,4979,External Call To Fixed Address,Low,buyAuction(uint256),4979,107,111486,6662
+Fishbank,0xdf0f851ce2214febdc2d111cc591246ff813087d,1722,Exception State,Low,"approve(address,uint256)",1722,110,723,628
+Fishbank,0xdf0f851ce2214febdc2d111cc591246ff813087d,2386,Exception State,Low,_function_0x36541cc5,2386,110,814,719
+Fishbank,0xdf0f851ce2214febdc2d111cc591246ff813087d,2582,Exception State,Low,ownerOf(uint256),2582,110,839,744
+Fishbank,0xdf0f851ce2214febdc2d111cc591246ff813087d,2852,Exception State,Low,convertChest(uint256),2852,110,2021,1073
+Fishbank,0xdf0f851ce2214febdc2d111cc591246ff813087d,9037,Exception State,Low,"[many_msg_babbage(bytes1), transfer(address,uint256)] (ambiguous)",9037,110,1012,917
+Fishbank,0x31c878f5fd6d692348365f052169e3b2aa024a32
+Fishbank,0xA98Ad92a642570b83B369C4eb70efefe638bc895,4858,Exception State,Low,buyChest(uint16),4858,110,1503,460
+Fishbank,0xA98Ad92a642570b83B369C4eb70efefe638bc895,6269,Exception State,Low,"approve(address,uint256)",6269,110,855,760
+Fishbank,0xA98Ad92a642570b83B369C4eb70efefe638bc895,7083,Exception State,Low,_function_0x16709c22,7083,110,902,807
+Fishbank,0xA98Ad92a642570b83B369C4eb70efefe638bc895,7815,Exception State,Low,_function_0x3fc83dc9,7815,110,656,561
+Fishbank,0xA98Ad92a642570b83B369C4eb70efefe638bc895,8179,Exception State,Low,"applyBooster(uint256,uint256)",8179,110,1141,1046
+Fishbank,0x26c720c79c2518d42bdf604bcf0f433d0f67a8da,5043,Exception State,Low,getCooldown(uint16),5043,110,391,296
+Franklin's Library,0x87e5212A30135d562501143cec9F95fFb1De4e9f,3579,External Call To Fixed Address,Low,myDividends(),3579,107,2371,1570
+Franklin's Library,0x87e5212A30135d562501143cec9F95fFb1De4e9f,6427,Exception State,Low,buyKnowledge(),6427,110,1693,1268
+Franklin's Library,0x87e5212A30135d562501143cec9F95fFb1De4e9f,6511,Exception State,Low,"calculateTrade(uint256,uint256,uint256)",6511,110,973,878
+Galleass.io,0xC15fa062d898f89e943429D056200D08614DDF89
+Galleass.io,0xC15fa062d898f89e943429D056200D08614DDF89
+Gallery 6,0x09B943c157Ee9d56b0E9168E15eEA2C64Ea85393,410,Delegatecall Proxy,Low,fallback,410,112,4378,1226
+Gallery 6,0x09B943c157Ee9d56b0E9168E15eEA2C64Ea85393,2544,Exception State,Low,costs(uint256),2544,110,807,712
+Gallery 6,0x09B943c157Ee9d56b0E9168E15eEA2C64Ea85393,3578,Exception State,Low,values(uint256),3578,110,917,822
+Gallery 6,0x09B943c157Ee9d56b0E9168E15eEA2C64Ea85393,5388,External Call To Fixed Address,Low,getFees(),5388,107,14775,10194
+Gallery 6,0x09B943c157Ee9d56b0E9168E15eEA2C64Ea85393,5544,Exception State,Low,ids(uint256),5544,110,1247,1152
+GameCard,0xa25E8050F80eE99A17E861CD0931D5D362CAA34E,6378,Exception State,Low,cardDetailsList(uint256),6378,110,836,741
+GameCard,0xa25E8050F80eE99A17E861CD0931D5D362CAA34E,10589,Exception State,Low,cardList(uint256),10589,110,1232,1137
+GameCard,0xaE62cc634B17a98B5cbCe3305C73Fba4CCd230A4
+GameCard,0x598382D2ba5E70624F0A7F9EEB1454E92A3169c2
+GeoEth,0x59d34dE599716AA949487230c21FBAb178496671,1812,Exception State,Low,getGameById(uint256),1812,110,1451,788
+Gittron,0xfb6ff3d0eba6b8e69fceb04afe5f230611a34a36
+Gittron,0x162d3e80d51f96240ae0a44ab3a5b1ea23920ce4
+Gizer,0xe638dc39b6adbee8526b5c22380b4b45daf46d8e
+Glitch Goons,glitchgoons1
+Glitch Goons,0xaE42410C62e8254429E0fA06a4f965ee7D123EB5
+Glitch Goons,etherdalecom
+Glitch Goons,0x18337c61e4f16A2E474c0d6124d85C522C26bBDD
+Glitch Goons,glitchgoons2
+Gods Unchained,0x91b9d2835ad914bc1dcfe09bd1816febd04fd689,144,Integer Overflow,High,fallback,144,101,1453,1358
+Gods Unchained,0x91b9d2835ad914bc1dcfe09bd1816febd04fd689,524,Integer Overflow,High,fallback,524,101,1453,1358
+Gods Unchained,0xc47D7d42E44b2e04c83a45cF45898E597A0c2311,1769,Exception State,Low,claim(uint256),1769,110,1167,742
+Gods Unchained,0xc47D7d42E44b2e04c83a45cF45898E597A0c2311,2880,Exception State,Low,recommit(uint256),2880,110,1222,797
+Gods Unchained,0xc47D7d42E44b2e04c83a45cF45898E597A0c2311,3272,Exception State,Low,_function_0x8392fe31,3272,110,1326,901
+Gods Unchained,0xc47D7d42E44b2e04c83a45cF45898E597A0c2311,3600,Exception State,Low,_function_0xb84c1392,3600,110,1458,1033
+Gods Unchained,0x5789e2b5460cae9329d93a78511e2ac49f98a1f6,1885,Exception State,Low,claim(uint256),1885,110,855,760
+Gods Unchained,0x5789e2b5460cae9329d93a78511e2ac49f98a1f6,5098,Exception State,Low,callback(uint256),5098,110,1180,1085
+Gods Unchained,0x015531a044bae03bf4dab1ceabfc232a969b7175,1885,Exception State,Low,claim(uint256),1885,110,855,760
+Gods Unchained,0x015531a044bae03bf4dab1ceabfc232a969b7175,5757,Exception State,Low,callback(uint256),5757,110,1180,1085
+Gods Unchained,0xe7e02be77d46ca4def893d1d05198f4be5c1ecd8
+Gods Unchained,0x1e891C587b345ab02A31b57c1F926fB08913d10D,1814,Exception State,Low,claim(uint256),1814,110,1167,742
+Gods Unchained,0x1e891C587b345ab02A31b57c1F926fB08913d10D,2925,Exception State,Low,recommit(uint256),2925,110,1222,797
+Gods Unchained,0x1e891C587b345ab02A31b57c1F926fB08913d10D,3317,Exception State,Low,_function_0x8392fe31,3317,110,1326,901
+Gods Unchained,0x1e891C587b345ab02A31b57c1F926fB08913d10D,3645,Exception State,Low,_function_0xb84c1392,3645,110,1458,1033
+Gods Unchained,0x6e0051c750b81f583f42f93a48d56497779992d8,1885,Exception State,Low,claim(uint256),1885,110,855,760
+Gods Unchained,0x6e0051c750b81f583f42f93a48d56497779992d8,5758,Exception State,Low,callback(uint256),5758,110,1180,1085
+Gods Unchained,0x0777f76d195795268388789343068e4fcd286919,1722,Exception State,Low,claim(uint256),1722,110,1145,720
+Gods Unchained,0x0777f76d195795268388789343068e4fcd286919,2701,Exception State,Low,recommit(uint256),2701,110,1200,775
+Gods Unchained,0x0777f76d195795268388789343068e4fcd286919,4062,Exception State,Low,_function_0x8392fe31,4062,110,1304,879
+Gods Unchained,0x0777f76d195795268388789343068e4fcd286919,4390,Exception State,Low,_function_0xb84c1392,4390,110,1436,1011
+Gods Unchained,0x000983ba1a675327f0940b56c2d49cd9c042dfbf,1987,Exception State,Low,claim(uint256),1987,110,855,760
+Gods Unchained,0x000983ba1a675327f0940b56c2d49cd9c042dfbf,5294,Exception State,Low,callback(uint256),5294,110,1202,1107
+Gods Unchained,0x482Cf6A9d6b23452C81d4D0f0f139C1414963f89,1722,Exception State,Low,claim(uint256),1722,110,1145,720
+Gods Unchained,0x482Cf6A9d6b23452C81d4D0f0f139C1414963f89,2701,Exception State,Low,recommit(uint256),2701,110,1200,775
+Gods Unchained,0x482Cf6A9d6b23452C81d4D0f0f139C1414963f89,4062,Exception State,Low,_function_0x8392fe31,4062,110,1304,879
+Gods Unchained,0x482Cf6A9d6b23452C81d4D0f0f139C1414963f89,4390,Exception State,Low,_function_0xb84c1392,4390,110,1436,1011
+GoPony,0x91af19d0e94710bb2f26ec09a9b25308386c2452
+GoPony,0x82a73f1407faf50c0703433d7449e7916b95c32b,1312,External Call To Fixed Address,Low,getMyTokenBalance(),1312,107,3412,1951
+GoPony,0xd772358fc49821e79cdd36c6f1a07ec860ee384e,1162,Exception State,Low,lastGen0SalePrices(uint256),1162,110,294,199
+GoPony,0xb6fc6e2385d55ccb83e297bd92e2bd89795b47a3,5398,Exception State,Low,getPony(uint256),5398,110,1381,956
+GoPony,0xb6fc6e2385d55ccb83e297bd92e2bd89795b47a3,6014,Exception State,Low,"canBreedWith(uint256,uint256)",6014,110,1475,1050
+GoPony,0xb6fc6e2385d55ccb83e297bd92e2bd89795b47a3,6045,Exception State,Low,"canBreedWith(uint256,uint256)",6045,110,2075,1555
+GoPony,0xb6fc6e2385d55ccb83e297bd92e2bd89795b47a3,7959,Exception State,Low,_function_0x863f7199,7959,110,1885,1460
+Hash Heroes,0x103992432927f7ed1a5b3dc0e34186f80b16d93c,1856,Exception State,Low,"tiles(uint256,uint256)",1856,110,479,384
+Hash Heroes,0x103992432927f7ed1a5b3dc0e34186f80b16d93c,1877,Exception State,Low,"tiles(uint256,uint256)",1877,110,528,433
+Hash Heroes,0x103992432927f7ed1a5b3dc0e34186f80b16d93c,2562,Exception State,Low,"claimTile(uint256,uint256,uint256)",2562,110,2197,1772
+Hash Heroes,0x103992432927f7ed1a5b3dc0e34186f80b16d93c,2583,Exception State,Low,"claimTile(uint256,uint256,uint256)",2583,110,2246,1821
+Hash Heroes,0x103992432927f7ed1a5b3dc0e34186f80b16d93c,1856,Exception State,Low,"tiles(uint256,uint256)",1856,110,479,384
+Hash Heroes,0x103992432927f7ed1a5b3dc0e34186f80b16d93c,1877,Exception State,Low,"tiles(uint256,uint256)",1877,110,528,433
+Hash Heroes,0x103992432927f7ed1a5b3dc0e34186f80b16d93c,2562,Exception State,Low,"claimTile(uint256,uint256,uint256)",2562,110,2197,1772
+Hash Heroes,0x103992432927f7ed1a5b3dc0e34186f80b16d93c,2583,Exception State,Low,"claimTile(uint256,uint256,uint256)",2583,110,2246,1821
+HashKings,0x57CDee8a9658F364553FE89BA200252B00Ad05D9,2161,Integer Overflow,High,name(),2161,101,3336,1595
+HashKings,0x57CDee8a9658F364553FE89BA200252B00Ad05D9,3378,Integer Overflow,High,_function_0x7dd7d32d,3378,101,4256,2277
+HashKings,0x57CDee8a9658F364553FE89BA200252B00Ad05D9,3533,Integer Overflow,High,_function_0x7dd7d32d,3533,101,4256,2277
+HashKings,0x57CDee8a9658F364553FE89BA200252B00Ad05D9,3798,Integer Overflow,High,"[link_classic_internal(uint64,int64), symbol()] (ambiguous)",3798,101,3776,2035
+HDX20,0x8942a5995bd168f347f7ec58f25a54a9a064f882,2005,Integer Overflow,High,fallback,2005,101,3265,1524
+Hedgely,0xB945930D22D3aac16982F8ca00a52e7ED73Ec981
+Hedgely,0x8b548505bABFd983Fc45210499b44e340bb85d76
+Heroes Of Ethereum,0xe22aa88573ca6bdde35cae8f84d92c38c402dcba
+HIPR,0xf792c43f23c39f7de185cfdc6ce96aa69e9f00c1
+HIPR,0xf792c43f23c39f7de185cfdc6ce96aa69e9f00c1
+HiPrecious,0x5D0ee539893323f9965e3AC2846Ea6421255AE79,5077,Integer Underflow,High,getCollection(uint256),5077,101,5528,3739
+HiPrecious,0x5D0ee539893323f9965e3AC2846Ea6421255AE79,5088,Exception State,Low,getCollection(uint256),5088,110,1013,918
+HiPrecious,0x5D0ee539893323f9965e3AC2846Ea6421255AE79,5581,Exception State,Low,getPrecious(uint256),5581,110,1079,984
+HiPrecious,0x5D0ee539893323f9965e3AC2846Ea6421255AE79,6411,Integer Underflow,High,getEdition(uint256),6411,101,6236,4352
+HiPrecious,0x5D0ee539893323f9965e3AC2846Ea6421255AE79,6422,Exception State,Low,getEdition(uint256),6422,110,1192,1097
+HIPSTER GAME,0x32f778F246bA5F8Ad8EB35A0D638E9075ABe5B19,5445,Exception State,Low,"calculateTrade(uint256,uint256,uint256)",5445,110,973,878
+HIPSTER GAME,0x32f778F246bA5F8Ad8EB35A0D638E9075ABe5B19,5527,Exception State,Low,buyEggs(),5527,110,1803,1378
+HitTheCrypto,0xccaa7a47d995e94d4bbbf1b43827ebb53ef8e569
+HODL Earth,0x8a8ec4cedf933dc983724c235fd4f4754ffbe6fc,8176,Integer Overflow,High,"getPlot(uint256,uint256)",8176,101,2971,1460
+HODL Earth,0x8a8ec4cedf933dc983724c235fd4f4754ffbe6fc,8241,Exception State,Low,_function_0x3f9b0af2,8241,110,716,621
+HODL St.,0x6Ef9B8609549f43846d7701d5Bd84b0331E83a6A,3681,Exception State,Low,_function_0xbc31c1c1,3681,110,939,844
+HODL St.,0x39237d680cfc6dc3630a61823b6f29121a0e62c1
+Hot Potato,0x80c6fFb6F7A23fb6aF173CE13a8278C1426B8cBC
+Hot Potato,0x80c6fFb6F7A23fb6aF173CE13a8278C1426B8cBC
+HyperDragons,0xe05ebd94ca833855133f63190d7fb2d7ba640462
+HyperDragons,0x92cace836fa29f8b5ac5ef02c7ad241614d78ee2
+HyperDragons,0xe371dbd9e35ea8a274d60f147df95bbe4b1f0188,33,Delegatecall Proxy,Low,fallback,33,112,2340,36
+HyperDragons,0xa16176f987e3f5388ca8696ca2dcc5c778ab6a19
+HyperDragons,0x67a5de922c1f4d1a4dbd848466b86b5455fb6a3b,1999,Exception State,Low,lastGen0SalePrices(uint256),1999,110,348,253
+HyperDragons,0x086e5cad411ef6d1f2e719f1f2bff94c02c1082d,2952,External Call To Fixed Address,Low,_function_0x4577e22e,2952,107,3191,2155
+HyperDragons,0x086e5cad411ef6d1f2e719f1f2bff94c02c1082d,6311,External Call To Fixed Address,Low,_function_0x8665ab0d,6311,107,3341,2305
+HyperDragons,0xb0970f61b66f86f2169b4eb3d97da065327633e9,789,Exception State,Low,_function_0x23fbb324,789,110,282,187
+HyperDragons,0xb0970f61b66f86f2169b4eb3d97da065327633e9,834,Exception State,Low,_function_0x4d5a8110,834,110,304,209
+HyperDragons,0x7fdcd2a1e52f10c28cb7732f46393e297ecadda1,6695,Exception State,Low,isPregnant(uint256),6695,110,959,864
+HyperDragons,0x7fdcd2a1e52f10c28cb7732f46393e297ecadda1,8362,Exception State,Low,"canBreedWith(uint256,uint256)",8362,110,1235,1140
+HyperDragons,0x7fdcd2a1e52f10c28cb7732f46393e297ecadda1,8393,Exception State,Low,"canBreedWith(uint256,uint256)",8393,110,1835,1645
+HyperDragons,0x7fdcd2a1e52f10c28cb7732f46393e297ecadda1,12703,Exception State,Low,cooldowns(uint256),12703,110,1250,1155
+HyperDragons,0xC5807256e2E2Fe85ca94C3617C4Bc5ff2Bd9cfB6
+HyperDragons,0xe0617aa7084323313310ec30187fc6d33c07fc2b,3374,Integer Underflow,High,_function_0x08d9b0bb,3374,101,2643,1607
+ICO Hater Collectibles,0x1fa48dd53f8300425f57621cf7b50d232e35e880
+ICO Hater Collectibles,0x682fF6b8746e182DA0efDE513C06235E5efb6cED
+ICO Hater Collectibles,0x91E881307Bc6ff429B29C6320294899D58f0bE5c
+Infect the World,0xf5fcfea8331a44a5a7239bc75bc8b3cf4e2193e0,1419,Integer Underflow,High,cos(uint16),1419,101,5220,1496
+Infect the World,0xf5fcfea8331a44a5a7239bc75bc8b3cf4e2193e0,3428,Exception State,Low,_function_0xa60080cf,3428,110,836,741
+Infect the World,0xf5fcfea8331a44a5a7239bc75bc8b3cf4e2193e0,4949,Exception State,Low,_function_0xf3e2be4a,4949,110,1295,1010
+Infect the World,0xf5fcfea8331a44a5a7239bc75bc8b3cf4e2193e0,5119,Integer Underflow,High,cos(uint16),5119,101,5204,1480
+Infect the World,0xf5fcfea8331a44a5a7239bc75bc8b3cf4e2193e0,5120,Integer Overflow,High,cos(uint16),5120,101,5204,1480
+Infect the World,0xf5fcfea8331a44a5a7239bc75bc8b3cf4e2193e0,5151,Integer Underflow,High,cos(uint16),5151,101,5214,1490
+Infect the World,0xf5fcfea8331a44a5a7239bc75bc8b3cf4e2193e0,5195,Integer Overflow,High,cos(uint16),5195,101,5204,1480
+Jan Pon War,0xd4276563d170073482f65b305559e4b73f7a089f,11019,Exception State,Low,_function_0xf4561a78,11019,110,2711,2426
+KillFish,0xB5C518AB9B41080af0D9df48d9EcBF1f098a44D0,1958,Exception State,Low,_function_0x07b1dec2,1958,110,693,598
+KillFish,0xB5C518AB9B41080af0D9df48d9EcBF1f098a44D0,2981,Exception State,Low,_function_0x15497212,2981,110,1978,935
+KillFish,0xB5C518AB9B41080af0D9df48d9EcBF1f098a44D0,5363,Exception State,Low,_function_0x3d98aa66,5363,110,945,850
+KillFish,0xB5C518AB9B41080af0D9df48d9EcBF1f098a44D0,6925,Exception State,Low,_function_0x971fbf86,6925,110,1287,1192
+King of Eth,0xe1254b9025b9e9dc4c22b1e48ad0d279c090af24,778,External Call To Fixed Address,Low,fallback,778,107,3128,1902
+King of Eth,0xe1254b9025b9e9dc4c22b1e48ad0d279c090af24,1276,External Call To Fixed Address,Low,_function_0x89ed3d17,1276,107,3216,1990
+King of Eth,0xe1254b9025b9e9dc4c22b1e48ad0d279c090af24,1676,External Call To Fixed Address,Low,_function_0x9f02ebaa,1676,107,3254,2028
+King of Eth,0xe1254b9025b9e9dc4c22b1e48ad0d279c090af24,2209,External Call To Fixed Address,Low,_function_0xc7ac315d,2209,107,30159,8313
+King of Eth,0x214c1c9962761be484e365a14d9bca3739020517,914,External Call To Fixed Address,Low,fallback,914,107,4038,2432
+King of Eth,0x8a07183cec562506f7ec29be42d7f5a14ee9e484,3822,External Call To Fixed Address,Low,_function_0xf417fae2,3822,107,7447,2648
+King of Eth,0x107464baae9d59725623b3252528f420b5bdb705,1172,External Call To Fixed Address,Low,_function_0x9251b1a7,1172,107,3347,2026
+King of Eth,0x107464baae9d59725623b3252528f420b5bdb705,1276,Exception State,Low,_function_0x9251b1a7,1276,110,39245,3028
+King of Eth,0x107464baae9d59725623b3252528f420b5bdb705,1575,Exception State,Low,_function_0xa1833417,1575,110,1359,884
+King of Eth,0x107464baae9d59725623b3252528f420b5bdb705,2526,External Call To Fixed Address,Low,_function_0xbc9419cc,2526,107,3495,2174
+King of Eth,0x107464baae9d59725623b3252528f420b5bdb705,2630,Exception State,Low,_function_0xbc9419cc,2630,110,39393,3176
+King of Eth,0x107464baae9d59725623b3252528f420b5bdb705,2889,External Call To Fixed Address,Low,_function_0xe9b652aa,2889,107,3523,2202
+King of Eth,0x107464baae9d59725623b3252528f420b5bdb705,2993,Exception State,Low,_function_0xe9b652aa,2993,110,39421,3204
+King of Eth,0xc8e072145f8aa3507a291141beae1109070a6fb8,1006,Exception State,Low,fallback,1006,110,1519,384
+King of Eth,0xc8e072145f8aa3507a291141beae1109070a6fb8,2309,External Call To Fixed Address,Low,_function_0xba965602,2309,107,4282,2256
+King of Eth,0xc8e072145f8aa3507a291141beae1109070a6fb8,2427,External Call To Fixed Address,Low,_function_0xba965602,2427,107,41038,3885
+King of Eth,0xc8e072145f8aa3507a291141beae1109070a6fb8,2545,External Call To Fixed Address,Low,_function_0xba965602,2545,107,77794,5514
+King of Eth,0x1e19bec0e4ec6d524585f1d89f57afa2d0e95106,1227,External Call To Fixed Address,Low,fallback,1227,107,4706,2910
+King of Eth,0x1e19bec0e4ec6d524585f1d89f57afa2d0e95106,4920,Integer Overflow,High,_function_0xde4193df,4920,101,3722,1182
+King of Eth,0x4bda2ed2be4f6f4c3652fd1cc2e6c0e47e694ade,1041,Exception State,Low,_function_0x7806988f,1041,110,330,235
+King of Eth,0x4bda2ed2be4f6f4c3652fd1cc2e6c0e47e694ade,1062,Exception State,Low,_function_0x7806988f,1062,110,386,291
+King of Eth,0x4bda2ed2be4f6f4c3652fd1cc2e6c0e47e694ade,1291,External Call To Fixed Address,Low,_function_0x7806988f,1291,107,3494,1843
+King of Eth,0x5ff1e4c124b6b0c9a41cf41d261b3cb9fd84c80d,1288,External Call To Fixed Address,Low,_function_0x4faa174e,1288,107,2143,1437
+King of Eth,0x5ff1e4c124b6b0c9a41cf41d261b3cb9fd84c80d,1388,Integer Overflow,High,_function_0x68ba52fc,1388,101,1092,716
+King of Eth,0x5ff1e4c124b6b0c9a41cf41d261b3cb9fd84c80d,1712,External Call To Fixed Address,Low,_function_0x8c47a132,1712,107,2341,1635
+King of Eth,0x04bba664ea822924ff435ce1b3fad3e8dcc69481,498,Multiple Calls in a Single Transaction,Medium,_function_0x994d1ee9,498,113,101554,10808
+King of Eth,0x04bba664ea822924ff435ce1b3fad3e8dcc69481,2814,External Call To Fixed Address,Low,_function_0x69deb7b7,2814,107,2328,1527
+King of Eth,0x04bba664ea822924ff435ce1b3fad3e8dcc69481,2963,External Call To Fixed Address,Low,_function_0x69deb7b7,2963,107,39265,3572
+King of Eth,0x04bba664ea822924ff435ce1b3fad3e8dcc69481,3709,External Call To Fixed Address,Low,_function_0x8816c996,3709,107,3161,2170
+King of Eth,0x04bba664ea822924ff435ce1b3fad3e8dcc69481,4347,External Call To Fixed Address,Low,_function_0x994d1ee9,4347,107,2526,1725
+King of Eth,0xf278c6ff3c4956ec721c43d015135573a15c97aa,1222,Exception State,Low,_function_0x7806988f,1222,110,696,271
+King of Eth,0xf278c6ff3c4956ec721c43d015135573a15c97aa,1241,Exception State,Low,_function_0x7806988f,1241,110,746,321
+King of Eth,0xf278c6ff3c4956ec721c43d015135573a15c97aa,1266,Exception State,Low,_function_0x7806988f,1266,110,765,340
+King of Eth,0xf278c6ff3c4956ec721c43d015135573a15c97aa,1558,External Call To Fixed Address,Low,_function_0x7806988f,1558,107,3900,1919
+KingLovin,0x52629DD14923d9F60deAFDd373ff6E1145866F09,1110,Integer Overflow,High,tokensOfOwner(address),1110,101,3811,1455
+KingLovin,0x52629DD14923d9F60deAFDd373ff6E1145866F09,1131,Integer Overflow,High,tokensOfOwner(address),1131,101,4321,1589
+KingLovin,0x52629DD14923d9F60deAFDd373ff6E1145866F09,1147,Integer Overflow,High,tokensOfOwner(address),1147,101,4321,1589
+KingLovin,0x52629DD14923d9F60deAFDd373ff6E1145866F09,2877,Exception State,Low,getCity(uint256),2877,110,1490,1112
+KingLovin,0x52629DD14923d9F60deAFDd373ff6E1145866F09,1110,Integer Overflow,High,tokensOfOwner(address),1110,101,3811,1455
+KingLovin,0x52629DD14923d9F60deAFDd373ff6E1145866F09,1131,Integer Overflow,High,tokensOfOwner(address),1131,101,4321,1589
+KingLovin,0x52629DD14923d9F60deAFDd373ff6E1145866F09,1147,Integer Overflow,High,tokensOfOwner(address),1147,101,4321,1589
+KingLovin,0x52629DD14923d9F60deAFDd373ff6E1145866F09,2877,Exception State,Low,getCity(uint256),2877,110,1490,1112
+KittyRace,0x6b6220677b93e8fc9dc3ffe582e481b7a56c79a9,2284,External Call To Fixed Address,Low,registerForRace(uint256),2284,107,4051,2542
+KittyRace,0x6b6220677b93e8fc9dc3ffe582e481b7a56c79a9,3528,Exception State,Low,race(uint32),3528,110,6608,3677
+KittyRace,0x6b6220677b93e8fc9dc3ffe582e481b7a56c79a9,5001,Exception State,Low,"getRacer(uint32,uint256)",5001,110,1309,1024
+Locus,0x16FF6A8cF19eEe38F6CCE81d42ed390038547048
+LoftVR,0x5088C2985210925d15Ea470a160fC08b352818d0,232,Integer Overflow,High,fallback,232,101,53439,12824
+LoftVR,0x5088C2985210925d15Ea470a160fC08b352818d0,295,Dependence on predictable environment variable,Low,fallback,295,120,2995,2384
+LoftVR,0x5088C2985210925d15Ea470a160fC08b352818d0,404,Integer Overflow,High,fallback,404,101,53439,12824
+LoftVR,0x5088C2985210925d15Ea470a160fC08b352818d0,414,Integer Overflow,High,fallback,414,101,53439,12824
+LoftVR,0x5088C2985210925d15Ea470a160fC08b352818d0,917,Dependence on predictable environment variable,Low,transfer_remaining_funds_to_project(),917,120,4031,2853
+LoftVR,0x5088C2985210925d15Ea470a160fC08b352818d0,232,Integer Overflow,High,fallback,232,101,53439,12824
+LoftVR,0x5088C2985210925d15Ea470a160fC08b352818d0,295,Dependence on predictable environment variable,Low,fallback,295,120,2995,2384
+LoftVR,0x5088C2985210925d15Ea470a160fC08b352818d0,404,Integer Overflow,High,fallback,404,101,53439,12824
+LoftVR,0x5088C2985210925d15Ea470a160fC08b352818d0,414,Integer Overflow,High,fallback,414,101,53439,12824
+LoftVR,0x5088C2985210925d15Ea470a160fC08b352818d0,917,Dependence on predictable environment variable,Low,transfer_remaining_funds_to_project(),917,120,4031,2853
+LORDLESS,0xea08874e12eae69f592c721ea0243d56d76c4f80
+LORDLESS,0x159903d22cd86e2e04747b52c8eab795e5ce92ce,1276,Exception State,Low,_function_0x4db1b0f9,1276,110,1150,725
+LORDLESS,0x159903d22cd86e2e04747b52c8eab795e5ce92ce,1466,External Call To Fixed Address,Low,_function_0x75aa07c0,1466,107,3068,1747
+LORDLESS,0x159903d22cd86e2e04747b52c8eab795e5ce92ce,2021,External Call To Fixed Address,Low,_function_0xbb9114b1,2021,107,3617,2296
+LORDLESS,0x159903d22cd86e2e04747b52c8eab795e5ce92ce,2193,External Call To Fixed Address,Low,_function_0xbb9114b1,2193,107,41034,4396
+LORDLESS,0x159903d22cd86e2e04747b52c8eab795e5ce92ce,2356,External Call To Fixed Address,Low,_function_0xbb9114b1,2356,107,78389,6859
+LORDLESS,0x159903d22cd86e2e04747b52c8eab795e5ce92ce,2525,External Call To Fixed Address,Low,_function_0xbb9114b1,2525,107,115853,9336
+LORDLESS,0x159903d22cd86e2e04747b52c8eab795e5ce92ce,2694,External Call To Fixed Address,Low,_function_0xbb9114b1,2694,107,153321,11817
+LORDLESS,0x159903d22cd86e2e04747b52c8eab795e5ce92ce,3064,External Call To Fixed Address,Low,_function_0xbb9114b1,3064,107,190468,14258
+LORDLESS,0x9a059a2dd2e3c025a123f2ae65cd85bf73d9db5e
+LORDLESS,0x15820072729d045ec5232ba3bd060ec5df38e09a
+LORDLESS,0x35223bc965dbd91b41ddf1f540e8c7e475853551,3007,Exception State,Low,_function_0x5e5fda85,3007,110,873,778
+LORDLESS,0x94a0998c466744b53db002ff4d29cfcdb0aea6c6
+LORDLESS,0xb71e2f2af27bcac476eefb418e56869067009997
+LORDLESS,0xffbe258e9de5269a8855f41a41178ddc202d27bb,1394,External Call To Fixed Address,Low,levelByToken(uint256),1394,107,2281,1480
+LORDLESS,0xffbe258e9de5269a8855f41a41178ddc202d27bb,1931,Integer Overflow,High,"weightsApportion(uint256,uint256)",1931,101,814,438
+LORDLESS,0xffbe258e9de5269a8855f41a41178ddc202d27bb,1944,Exception State,Low,"weightsApportion(uint256,uint256)",1944,110,449,354
+LORDLESS,0xee301e417e8e802089fccec365f3e0416cfd083b
+LORDLESS,0xb9250c9581e4594b7c6914897823ad18d6b78e96,1685,Integer Overflow,High,name(),1685,101,3314,1573
+LORDLESS,0xb9250c9581e4594b7c6914897823ad18d6b78e96,2822,Integer Overflow,High,"[link_classic_internal(uint64,int64), symbol()] (ambiguous)",2822,101,3732,1991
+LORDLESS,0x744a31ede5422355d9c2bd8c44c710404336ca84,494,Integer Overflow,High,batchCancelAuctions(uint256[]),494,101,332,237
+LORDLESS,0x744a31ede5422355d9c2bd8c44c710404336ca84,496,Integer Overflow,High,batchCancelAuctions(uint256[]),496,101,332,237
+LORDLESS,0x7ca121b093e2fbd4bb9a894bd5ff487d16f1f83b
+LORDLESS,0x63b55c54cd4709b80b434de938986c7da5dd6cb5,2266,External Call To Fixed Address,Low,influenceByToken(uint256),2266,107,2442,1641
+LORDLESS,0x63b55c54cd4709b80b434de938986c7da5dd6cb5,2863,External Call To Fixed Address,Low,"weightsApportion(uint256,uint256)",2863,107,2677,1781
+LORDLESS,0x448e0209610a9064c776ae0255ad71ef49d58d0a,3013,Exception State,Low,_function_0x10c5a247,3013,110,1106,681
+LORDLESS,0xb99b7c5bda13f5cc7c9eebc166bbc430a833acf3,3182,Exception State,Low,_function_0x10c5a247,3182,110,1128,703
+LORDLESS,0xb99b7c5bda13f5cc7c9eebc166bbc430a833acf3,5461,Use of tx.origin,Medium,play(bytes32),5461,111,2585,1830
+Lords of the Snails,0x2A26B5d1EED284f403492044Ef4106eF0eD9C60A,1091,Integer Overflow,High,fallback,1091,101,982,606
+Lords of the Snails,0x2A26B5d1EED284f403492044Ef4106eF0eD9C60A,1100,Exception State,Low,fallback,1100,110,601,506
+Lords of the Snails,0x2A26B5d1EED284f403492044Ef4106eF0eD9C60A,1200,Exception State,Low,fallback,1200,110,306,211
+Lords of the Snails,0x2A26B5d1EED284f403492044Ef4106eF0eD9C60A,1437,Use of tx.origin,Medium,_function_0x29e7f90e,1437,111,698,603
+Lords of the Snails,0x2A26B5d1EED284f403492044Ef4106eF0eD9C60A,3622,External Call To Fixed Address,Low,_function_0x4c5f97b6,3622,107,25922,5734
+Lords of the Snails,0x2A26B5d1EED284f403492044Ef4106eF0eD9C60A,3707,Exception State,Low,_function_0x591dc348,3707,110,429,334
+Lords of the Snails,0x2A26B5d1EED284f403492044Ef4106eF0eD9C60A,3732,Exception State,Low,_function_0x6a7b8b09,3732,110,451,356
+Lords of the Snails,0x2A26B5d1EED284f403492044Ef4106eF0eD9C60A,4618,Exception State,Low,_function_0xc271be6a,4618,110,649,554
+Lords of the Snails,0x2A26B5d1EED284f403492044Ef4106eF0eD9C60A,4740,Exception State,Low,_function_0x29e7f90e,4740,110,783,688
+Lords of the Snails,0x2A26B5d1EED284f403492044Ef4106eF0eD9C60A,4805,Exception State,Low,_function_0x76a690c8,4805,110,1358,1263
+MagicEtherBall,0x68EE45b9fbF9aBd804dB1c168dD288212e0F187C,291,Multiple Calls in a Single Transaction,Medium,fallback,291,113,98993,9234
+MagicEtherBall,0x68EE45b9fbF9aBd804dB1c168dD288212e0F187C,1281,Exception State,Low,fallback,1281,110,831,736
+MegaCryptoPolis,0x7419F79a29187468fd6ABb24f022fEA7EbcEd22b,7563,Exception State,Low,_function_0x62afd3ea,7563,110,1840,1035
+MegaCryptoPolis,0x79f8cd0E10Cbc82D663e6d8C306165F6785297F9,2521,Exception State,Low,fallback,2521,110,1363,608
+MegaCryptoPolis,0x79f8cd0E10Cbc82D663e6d8C306165F6785297F9,4587,Exception State,Low,tokens(uint256),4587,110,1348,923
+MegaCryptoPolis,0x79f8cd0E10Cbc82D663e6d8C306165F6785297F9,4637,Integer Overflow,High,tokens(uint256),4637,101,5971,2906
+MegaCryptoPolis,0x79f8cd0E10Cbc82D663e6d8C306165F6785297F9,4816,Exception State,Low,ownerOf(uint256),4816,110,1376,951
+MegaCryptoPolis,0x79f8cd0E10Cbc82D663e6d8C306165F6785297F9,8135,Exception State,Low,"[many_msg_babbage(bytes1), transfer(address,uint256)] (ambiguous)",8135,110,2111,1356
+MegaCryptoPolis,0x79f8cd0E10Cbc82D663e6d8C306165F6785297F9,11674,Exception State,Low,"[gasprice_bit_ether(int128), transferFrom(address,address,uint256)] (ambiguous)",11674,110,3686,1891
+MegaCryptoPolis,0x14580A944246339d9151Ab4E22458b3Ab926438B,666,External Call To Fixed Address,Low,fallback,666,107,4044,2253
+MegaCryptoPolis,0x14580A944246339d9151Ab4E22458b3Ab926438B,3624,External Call To Fixed Address,Low,_function_0x16e9371d,3624,107,6193,1769
+MegaCryptoPolis,0x14580A944246339d9151Ab4E22458b3Ab926438B,7643,Exception State,Low,_function_0x62afd3ea,7643,110,1818,1013
+MegaCryptoPolis,0x285203097548b0a6e424b88eb7258beb95316ed6,7563,Exception State,Low,_function_0x62afd3ea,7563,110,1840,1035
+MegaCryptoPolis,0x79048730d53691268249FC0275F70af9046c3134,1318,Exception State,Low,_function_0x13cd11bb,1318,110,1657,712
+MegaCryptoPolis,0x79048730d53691268249FC0275F70af9046c3134,2892,Exception State,Low,_function_0xdd7f521c,2892,110,13985,2222
+MegaCryptoPolis,0xE694010C4F1FCd35ebc04ceB60F847cAaF2cD6F2,3617,Exception State,Low,fallback,3617,110,1363,608
+MegaCryptoPolis,0xE694010C4F1FCd35ebc04ceB60F847cAaF2cD6F2,4343,Exception State,Low,_function_0x1b345727,4343,110,1139,714
+MegaCryptoPolis,0xE694010C4F1FCd35ebc04ceB60F847cAaF2cD6F2,6184,Exception State,Low,tokens(uint256),6184,110,1392,967
+MegaCryptoPolis,0xE694010C4F1FCd35ebc04ceB60F847cAaF2cD6F2,6402,Exception State,Low,ownerOf(uint256),6402,110,1442,1017
+MegaCryptoPolis,0xE694010C4F1FCd35ebc04ceB60F847cAaF2cD6F2,9498,Exception State,Low,cancelAuction(uint256),9498,110,1772,1347
+MegaCryptoPolis,0xE694010C4F1FCd35ebc04ceB60F847cAaF2cD6F2,10511,Exception State,Low,"[many_msg_babbage(bytes1), transfer(address,uint256)] (ambiguous)",10511,110,2221,1466
+MegaCryptoPolis,0xE694010C4F1FCd35ebc04ceB60F847cAaF2cD6F2,19516,Exception State,Low,"[gasprice_bit_ether(int128), transferFrom(address,address,uint256)] (ambiguous)",19516,110,4418,2433
+MegaCryptoPolis,0xFa36adA2E5835bA299b1fE2953E5D2Dd2E550790
+MetaGame,0xBAd8E5Bbb4fAD4029Ab444A10855539850a91FB9,4252,Exception State,Low,identifiers(uint256),4252,110,1321,896
+MetaGame,0xBAd8E5Bbb4fAD4029Ab444A10855539850a91FB9,4252,Exception State,Low,identifiers(uint256),4252,110,1321,896
+Microverse,0x7f4ca7139f9847dde009b4c6af1e173c1bf03d2d,5381,Integer Overflow,High,_function_0x5f99c1b2,5381,101,908,532
+MLB Crypto Baseball,0xaa86bb5ce320e7e425af0caf988f2c3a5e0b8338,1541,Integer Overflow,High,_function_0xc8f95d10,1541,101,1654,1229
+MLB Crypto Baseball,0xaa86bb5ce320e7e425af0caf988f2c3a5e0b8338,1543,Integer Overflow,High,_function_0xc8f95d10,1543,101,1654,1229
+MLB Crypto Baseball,0xaa86bb5ce320e7e425af0caf988f2c3a5e0b8338,3679,Exception State,Low,_function_0x754ea8e5,3679,110,1662,999
+MLB Crypto Baseball,0xaa86bb5ce320e7e425af0caf988f2c3a5e0b8338,4735,Exception State,Low,_function_0xa224c0a6,4735,110,1841,1178
+MLB Crypto Baseball,0xaa86bb5ce320e7e425af0caf988f2c3a5e0b8338,5947,Exception State,Low,_function_0xf34d4c63,5947,110,1850,1377
+MLB Crypto Baseball,0xaa86bb5ce320e7e425af0caf988f2c3a5e0b8338,6144,Exception State,Low,_function_0xfb860778,6144,110,1691,1406
+MLB Crypto Baseball,0x7377aa41144e7f78f5f67dc27daad39079bb96f8
+MLB Crypto Baseball,0xc19b4b5f76d8148bcc78329bd37a0ea2513440bc,5560,External Call To Fixed Address,Low,"userCreateSaleIfApproved(uint256,uint256,uint256,uint256)",5560,107,3780,2319
+MLB Crypto Baseball,0xc19b4b5f76d8148bcc78329bd37a0ea2513440bc,6983,Exception State,Low,_function_0xa888ff60,6983,110,1405,790
+MLB Crypto Baseball,0x8c9b261faef3b3c2e64ab5e58e04615f8c788099,7647,Exception State,Low,_function_0x1d6b0b82,7647,110,514,419
+MLB Crypto Baseball,0xe7232a9fd8bf427aa41918bc008d32290e22990e,7293,External Call To Fixed Address,Low,"userCreateSaleIfApproved(uint256,uint256,uint256,uint256)",7293,107,3852,2391
+MLB Crypto Baseball,0xe7232a9fd8bf427aa41918bc008d32290e22990e,8721,Exception State,Low,_function_0xa888ff60,8721,110,1471,856
+Monsters,0x9BE9e531Acc2937Fa75F58A8875C9604FD43bF60,5619,Exception State,Low,entityList(uint256),5619,110,924,829
+Monsters,0x9BE9e531Acc2937Fa75F58A8875C9604FD43bF60,7710,Exception State,Low,userList(uint256),7710,110,1166,1071
+Monsters,0x9BE9e531Acc2937Fa75F58A8875C9604FD43bF60,8260,Exception State,Low,myEntityList(uint256),8260,110,1276,1181
+Monsters,0x9BE9e531Acc2937Fa75F58A8875C9604FD43bF60,10457,Exception State,Low,"createMyEntity(uint256,bytes32,bool,uint256,uint256)",10457,110,90430,14729
+Monsters,0x9BE9e531Acc2937Fa75F58A8875C9604FD43bF60,5619,Exception State,Low,entityList(uint256),5619,110,924,829
+Monsters,0x9BE9e531Acc2937Fa75F58A8875C9604FD43bF60,7710,Exception State,Low,userList(uint256),7710,110,1166,1071
+Monsters,0x9BE9e531Acc2937Fa75F58A8875C9604FD43bF60,8260,Exception State,Low,myEntityList(uint256),8260,110,1276,1181
+MoonCryptoPolis,0x8209CBe5eB84d0A2974355AFD3F9256B58FCe2aC
+MoonCryptoPolis,0xc72b1dDd92C34c1074e30E636Fe88D0947fB2fD7,1946,Integer Overflow,High,_function_0x18480ee4,1946,101,25678,5583
+MoonCryptoPolis,0xB8aCdaE2B8bDdF8c5C2f4F247d98b69343cC6502,481,Multiple Calls in a Single Transaction,Medium,_function_0x167d5f56,481,113,77725,6292
+MoonCryptoPolis,0xB8aCdaE2B8bDdF8c5C2f4F247d98b69343cC6502,1676,Integer Overflow,High,_function_0x167d5f56,1676,101,77725,6292
+MoonCryptoPolis,0xB8aCdaE2B8bDdF8c5C2f4F247d98b69343cC6502,2054,External Call To Fixed Address,Low,_function_0x214eaaed,2054,107,3649,2093
+MoonCryptoPolis,0x6515586Ce83293CEC425c46d5E5BF28591Ec013e,909,External Call To Fixed Address,Low,_function_0x54c03c46,909,107,4324,1968
+MoonCryptoPolis,0xF9E51dFe10A165781838C7DC9B08020433252543,4581,Exception State,Low,_function_0x01c45ec4,4581,110,1076,651
+MoonCryptoPolis,0xF9E51dFe10A165781838C7DC9B08020433252543,8430,Exception State,Low,_function_0x4423c5f1,8430,110,1488,1063
+MoonCryptoPolis,0xF9E51dFe10A165781838C7DC9B08020433252543,8662,Exception State,Low,_function_0x571a26a0,8662,110,1554,1129
+MoonCryptoPolis,0x956559194C69Ba02406A486355B9DF6343A3B4BF,3132,Integer Overflow,High,_function_0x4058ce8b,3132,101,838,462
+MoonCryptoPolis,0x956559194C69Ba02406A486355B9DF6343A3B4BF,3552,Integer Overflow,High,_function_0x659270f4,3552,101,1029,558
+MoonCryptoPolis,0x956559194C69Ba02406A486355B9DF6343A3B4BF,4895,Integer Overflow,High,_function_0xb3ce148d,4895,101,767,672
+MoonCryptoPolis,0x956559194C69Ba02406A486355B9DF6343A3B4BF,5571,Integer Overflow,High,_function_0xb8dda9c7,5571,101,2602,1472
+MoonCryptoPolis,0x956559194C69Ba02406A486355B9DF6343A3B4BF,6971,Exception State,Low,_function_0x80d80699,6971,110,3964,2306
+My Crypto Heroes,0xa1d2c7e6de2fa512f1fdf486ca17ab79b4dc5d01,4820,Exception State,Low,"heroTypeIds(uint16,uint256)",4820,110,1149,864
+My Crypto Heroes,0x273f7F8E6489682Df756151F5525576E322d51A3,1923,Integer Overflow,High,name(),1923,101,3335,1594
+My Crypto Heroes,0x4B9F5347c489D9EE91787B7e9f678d354324878F,1457,External Call To Fixed Address,Low,_function_0x0b49d19b,1457,107,29307,7986
+My Crypto Heroes,0x4B9F5347c489D9EE91787B7e9f678d354324878F,3672,External Call To Fixed Address,Low,_function_0xdb0ab5f3,3672,107,2502,1701
+My Crypto Heroes,0x946048A75Af11C300A274344887eC39452218B3d,3878,Exception State,Low,"heroTypeIds(uint16,uint256)",3878,110,1141,856
+My Crypto Heroes,0x9a7956dff83d5e94e8b4e9c6bbd7a40a9c89ebf7
+My Crypto Heroes,0x4ae0ede482f825fb9cccce8f0fe089f0379eaa2a
+My Crypto Heroes,0x46fc7b42f4522bfbd8b4565130aaed1e407d9957,3543,External Call To Fixed Address,Low,_function_0x8fd4de2f,3543,107,3322,2191
+My Crypto Heroes,0x46fc7b42f4522bfbd8b4565130aaed1e407d9957,3817,External Call To Fixed Address,Low,_function_0x8fd4de2f,3817,107,40469,4351
+My Crypto Heroes,0x46fc7b42f4522bfbd8b4565130aaed1e407d9957,5919,External Call To Fixed Address,Low,_function_0x8fd4de2f,5919,107,78536,7006
+My Crypto Heroes,0xdceaf1652a131F32a821468Dc03A92df0edd86Ea
+My Crypto Heroes,0x138a35ee20e40f019e7e7c00386ab2ef42d66d1e,2130,External Call To Fixed Address,Low,_function_0x262bfc7a,2130,107,3080,1949
+My Crypto Heroes,0x138a35ee20e40f019e7e7c00386ab2ef42d66d1e,2404,External Call To Fixed Address,Low,_function_0x262bfc7a,2404,107,40227,4109
+My Crypto Heroes,0x138a35ee20e40f019e7e7c00386ab2ef42d66d1e,4901,External Call To Fixed Address,Low,_function_0xe46a7c1f,4901,107,5181,3530
+My Crypto Heroes,0xa30cbce69f520bf2a34c5c15193b7f5afe427a26
+MyCryptoChamp,0xa44e464b13280340904ffef0a65b8a0033460430,4132,Exception State,Low,getItemsByOwner(address),4132,110,4645,2944
+MyCryptoChamp,0xa44e464b13280340904ffef0a65b8a0033460430,7305,Exception State,Low,getChampStats(uint256),7305,110,959,864
+MyCryptoChamp,0xa44e464b13280340904ffef0a65b8a0033460430,8352,Exception State,Low,cancelChampSale(uint256),8352,110,1001,906
+MyCryptoChamp,0xa44e464b13280340904ffef0a65b8a0033460430,12123,Exception State,Low,leaderboard(uint256),12123,110,1237,1142
+MyCryptoChamp,0xa44e464b13280340904ffef0a65b8a0033460430,12158,Exception State,Low,_function_0xbfb231d2,12158,110,1259,1164
+MyCryptoChamp,0xa44e464b13280340904ffef0a65b8a0033460430,12306,Exception State,Low,cancelItemSale(uint256),12306,110,1287,1192
+MyCryptoChamp,0xa44e464b13280340904ffef0a65b8a0033460430,12535,Exception State,Low,_function_0xc5af6257,12535,110,1303,1208
+MyCryptoChamp,0xa44e464b13280340904ffef0a65b8a0033460430,15764,Exception State,Low,getChampReward(uint256),15764,110,1750,1655
+MyCryptons,0xa068345A625542fe49c299C8DF309A920A184200,6590,Exception State,Low,"purchase(uint256,uint256)",6590,110,4716,3061
+MyCryptons,0xa068345A625542fe49c299C8DF309A920A184200,9842,Exception State,Low,getCrypton(uint256),9842,110,1258,1163
+MyCryptons,0xa068345A625542fe49c299C8DF309A920A184200,10578,Exception State,Low,"setProtectionForMyUnprotectedCrypton(uint256,uint256)",10578,110,3178,2233
+MyCryptons,0xa068345A625542fe49c299C8DF309A920A184200,12499,Exception State,Low,getMarkup(uint256),12499,110,1592,1497
+MyLuckyRabbit,0x825c1d61a5b170808a31b895c26ee4f24b690d59,6304,Exception State,Low,getFighter(uint256),6304,110,1386,1291
+Mythereum,0xb8131617325c6f1f7729a4e2df8551cb44ddf76b,10259,External Call To Fixed Address,Low,upgradeCardDamage(uint256),10259,107,40982,5049
+Mythereum,0xb8131617325c6f1f7729a4e2df8551cb44ddf76b,15905,External Call To Fixed Address,Low,upgradeCardShield(uint256),15905,107,41334,5401
+Mythereum,0x664fb2cba871e42a7e86dba388c2e6dff68264b1,752,Multiple Calls in a Single Transaction,Medium,"[gasprice_bit_ether(int128), transferFrom(address,address,uint256)] (ambiguous)",752,113,191864,24890
+Mythereum,0x664fb2cba871e42a7e86dba388c2e6dff68264b1,1503,Multiple Calls in a Single Transaction,Medium,"[many_msg_babbage(bytes1), transfer(address,uint256)] (ambiguous)",1503,113,128262,17085
+Mythereum,0xf6c868c4f2a48949ff9b01e67acd206543352fcd,763,Multiple Calls in a Single Transaction,Medium,"[gasprice_bit_ether(int128), transferFrom(address,address,uint256)] (ambiguous)",763,113,191864,24890
+Mythereum,0xf6c868c4f2a48949ff9b01e67acd206543352fcd,1604,Multiple Calls in a Single Transaction,Medium,"[many_msg_babbage(bytes1), transfer(address,uint256)] (ambiguous)",1604,113,128284,17107
+Mythereum,0x7895879e0ec1fb2e9a3fc3ac97e8908c2c519f7e
+Mythereum,0xbd57cc26c0fd1b339c6725866399126366328352,1552,Multiple Calls in a Single Transaction,Medium,transferEntireStake(address),1552,113,198955,19092
+Mythereum,0xbd57cc26c0fd1b339c6725866399126366328352,1924,Multiple Calls in a Single Transaction,Medium,claim(),1924,113,380736,28249
+Mythereum,0xbd57cc26c0fd1b339c6725866399126366328352,9089,External Call To Fixed Address,Low,upgradeCardDamage(uint256),9089,107,41098,4930
+Mythereum,0xbd57cc26c0fd1b339c6725866399126366328352,13606,Unprotected Ether Withdrawal,High,buyPack(uint8),13606,105,111780,6818
+Mythereum,0xbd57cc26c0fd1b339c6725866399126366328352,14313,External Call To Fixed Address,Low,upgradeCardShield(uint256),14313,107,41428,5260
+Mythereum,0xbd57cc26c0fd1b339c6725866399126366328352,18513,Unprotected Ether Withdrawal,High,claim(),18513,105,345981,27494
+Mythereum,0xc70be5b7c19529ef642d16c10dfe91c58b5c3bf0,7329,Exception State,Low,_function_0x36e7367d,7329,110,1207,922
+Mythereum,0xc70be5b7c19529ef642d16c10dfe91c58b5c3bf0,9114,Exception State,Low,_function_0x8dc10768,9114,110,1166,1071
+Mythereum,0xc70be5b7c19529ef642d16c10dfe91c58b5c3bf0,11316,Exception State,Low,_function_0xcae0d335,11316,110,1342,1247
+MythWars,0x46eda14F419bE11384F2bdA783d12577A786Ec49,6384,Exception State,Low,_function_0xbd80b700,6384,110,1217,1122
+NEVERDIE,0xdC4d9bba9A9013B6fE27ee2c531CaBE5d6b43197,2406,Use of tx.origin,Medium,fallback,2406,111,591,166
+NEVERDIE,0xdC4d9bba9A9013B6fE27ee2c531CaBE5d6b43197,3303,Use of tx.origin,Medium,"giftCharacter(address,uint8)",3303,111,954,199
+NEVERDIE,0xdC4d9bba9A9013B6fE27ee2c531CaBE5d6b43197,3985,Use of tx.origin,Medium,triggerVolcanoEruption(),3985,111,707,282
+NEVERDIE,0xdC4d9bba9A9013B6fE27ee2c531CaBE5d6b43197,4153,External Call To Fixed Address,Low,triggerVolcanoEruption(),4153,107,3624,1598
+NEVERDIE,0xdC4d9bba9A9013B6fE27ee2c531CaBE5d6b43197,6966,Use of tx.origin,Medium,"fight(uint32,uint16)",6966,111,1077,652
+NEVERDIE,0xdC4d9bba9A9013B6fE27ee2c531CaBE5d6b43197,10564,Use of tx.origin,Medium,addCharacters(uint8),10564,111,1055,630
+NEVERDIE,0xdC4d9bba9A9013B6fE27ee2c531CaBE5d6b43197,18137,External Call To Fixed Address,Low,"giftCharacter(address,uint8)",18137,107,4039,1588
+NEVERDIE,0xdC4d9bba9A9013B6fE27ee2c531CaBE5d6b43197,18196,Exception State,Low,"giftCharacter(address,uint8)",18196,110,39374,2407
+NEVERDIE,0xA54ddC7B3CcE7FC8b1E3Fa0256D0DB80D2c10970,174,Integer Overflow,High,fallback,174,101,38041,2158
+NEVERDIE,0xA54ddC7B3CcE7FC8b1E3Fa0256D0DB80D2c10970,641,Integer Overflow,High,version(),641,101,38151,2268
+NEVERDIE,0xA54ddC7B3CcE7FC8b1E3Fa0256D0DB80D2c10970,784,Integer Overflow,High,"[link_classic_internal(uint64,int64), symbol()] (ambiguous)",784,101,38195,2312
+NEVERDIE,0xA54ddC7B3CcE7FC8b1E3Fa0256D0DB80D2c10970,1388,External Call To Fixed Address,Low,"approveAndCall(address,uint256,bytes)",1388,107,34518,7619
+NEVERDIE,0xA54ddC7B3CcE7FC8b1E3Fa0256D0DB80D2c10970,1578,Unchecked Call Return Value,Low,version(),1578,104,38151,2268
+NEVERDIE,0xC596bD09d652827b0106292D3e378D5938df4B12,174,Integer Overflow,High,fallback,174,101,38041,2158
+NEVERDIE,0xC596bD09d652827b0106292D3e378D5938df4B12,641,Integer Overflow,High,version(),641,101,38151,2268
+NEVERDIE,0xC596bD09d652827b0106292D3e378D5938df4B12,784,Integer Overflow,High,"[link_classic_internal(uint64,int64), symbol()] (ambiguous)",784,101,38195,2312
+NEVERDIE,0xC596bD09d652827b0106292D3e378D5938df4B12,1388,External Call To Fixed Address,Low,"approveAndCall(address,uint256,bytes)",1388,107,34518,7619
+NEVERDIE,0xC596bD09d652827b0106292D3e378D5938df4B12,1578,Unchecked Call Return Value,Low,"[link_classic_internal(uint64,int64), symbol()] (ambiguous)",1578,104,38195,2312
+NEVERDIE,0x8059d8d6B6053F99Be81166c9A625FA9Db8BF6E2,2406,Use of tx.origin,Medium,fallback,2406,111,591,166
+NEVERDIE,0x8059d8d6B6053F99Be81166c9A625FA9Db8BF6E2,3303,Use of tx.origin,Medium,"giftCharacter(address,uint8)",3303,111,954,199
+NEVERDIE,0x8059d8d6B6053F99Be81166c9A625FA9Db8BF6E2,3985,Use of tx.origin,Medium,triggerVolcanoEruption(),3985,111,707,282
+NEVERDIE,0x8059d8d6B6053F99Be81166c9A625FA9Db8BF6E2,4153,External Call To Fixed Address,Low,triggerVolcanoEruption(),4153,107,3624,1598
+NEVERDIE,0x8059d8d6B6053F99Be81166c9A625FA9Db8BF6E2,6966,Use of tx.origin,Medium,"fight(uint32,uint16)",6966,111,1077,652
+NEVERDIE,0x8059d8d6B6053F99Be81166c9A625FA9Db8BF6E2,10564,Use of tx.origin,Medium,addCharacters(uint8),10564,111,1055,630
+NEVERDIE,0x8059d8d6B6053F99Be81166c9A625FA9Db8BF6E2,18137,External Call To Fixed Address,Low,"giftCharacter(address,uint8)",18137,107,4039,1588
+NEVERDIE,0x8059d8d6B6053F99Be81166c9A625FA9Db8BF6E2,18196,Exception State,Low,"giftCharacter(address,uint8)",18196,110,39374,2407
+NEVERDIE,0xA6A18b8d5a978dBff878b77bd785b778F00D2404,2406,Use of tx.origin,Medium,fallback,2406,111,591,166
+NEVERDIE,0xA6A18b8d5a978dBff878b77bd785b778F00D2404,3303,Use of tx.origin,Medium,"giftCharacter(address,uint8)",3303,111,954,199
+NEVERDIE,0xA6A18b8d5a978dBff878b77bd785b778F00D2404,3985,Use of tx.origin,Medium,triggerVolcanoEruption(),3985,111,707,282
+NEVERDIE,0xA6A18b8d5a978dBff878b77bd785b778F00D2404,4153,External Call To Fixed Address,Low,triggerVolcanoEruption(),4153,107,3624,1598
+NEVERDIE,0xA6A18b8d5a978dBff878b77bd785b778F00D2404,6966,Use of tx.origin,Medium,"fight(uint32,uint16)",6966,111,1077,652
+NEVERDIE,0xA6A18b8d5a978dBff878b77bd785b778F00D2404,10564,Use of tx.origin,Medium,addCharacters(uint8),10564,111,1055,630
+NEVERDIE,0xA6A18b8d5a978dBff878b77bd785b778F00D2404,18137,External Call To Fixed Address,Low,"giftCharacter(address,uint8)",18137,107,4039,1588
+NEVERDIE,0xA6A18b8d5a978dBff878b77bd785b778F00D2404,18196,Exception State,Low,"giftCharacter(address,uint8)",18196,110,39374,2407
+Orbiter 8,0xe27100886fa986aad8ee6494b99d76f7d9222f92
+ourPlace,0x32ebc63e3ab6fa412c513b776f7cd194495ff25d,4318,Exception State,Low,_function_0x8da7f232,4318,110,448,353
+ourPlace,0xf299692d5e10f54856dd417df763a006e7589a7c,4346,Exception State,Low,_function_0x8da7f232,4346,110,448,353
+Own the Day,0x16d790ad4e33725d44741251f100e635c323beb9,8111,Exception State,Low,calculateOwnerCut(uint256),8111,110,579,484
+Panda Earth,0x663e4229142a27f00bafb5d087e1e730648314c3,4024,Exception State,Low,getPanda(uint256),4024,110,3750,833
+Panda Earth,0x663e4229142a27f00bafb5d087e1e730648314c3,4628,Exception State,Low,isPregnant(uint256),4628,110,1242,817
+Panda Earth,0x663e4229142a27f00bafb5d087e1e730648314c3,5863,Exception State,Low,"canBreedWith(uint256,uint256)",5863,110,1519,1094
+Panda Earth,0x663e4229142a27f00bafb5d087e1e730648314c3,5894,Exception State,Low,"canBreedWith(uint256,uint256)",5894,110,2119,1599
+Panda Earth,0x663e4229142a27f00bafb5d087e1e730648314c3,6384,Exception State,Low,getWizzTypeOf(uint256),6384,110,5321,1456
+Panda Earth,0x663e4229142a27f00bafb5d087e1e730648314c3,6729,External Call To Fixed Address,Low,getWizzTypeOf(uint256),6729,107,12549,4721
+Panda Earth,0xe84e30aacb41490a1baf1d09416e970f1e6c6a1d,1825,Exception State,Low,lastGen0SalePrices(uint256),1825,110,360,265
+Panda Earth,0xbf4b10a3e9aacf7755345de8c9d1a06c184bed7a
+Panda Earth,0xe8ea0f7633bd29f6bbd603adae82249cce34cb49
+PEACE,0x55d743F548490C837858de0e815b2C3a7d4C3198,5422,Exception State,Low,"calculateTrade(uint256,uint256,uint256)",5422,110,929,834
+Peerguess,0xbdcfbf5c4d91abc0bc9709c7286d00063c0e6f22,2039,External Call To Fixed Address,Low,"approveAndCall(address,uint256,bytes)",2039,107,36040,7870
+Peerguess,0xbdcfbf5c4d91abc0bc9709c7286d00063c0e6f22,2039,External Call To User-Supplied Address,Medium,"approveAndCall(address,uint256,bytes)",2039,107,35782,7800
+Pepe Farm,0x2b2167bd09c4c8F853E0c011BcF9a581F8459604
+Pepedapp,0xe4bd56cbf537074e3836a1721983107cce9e689f
+Pipot,0xEE52D05a2351151BEAbEDB7a9E38cc1A2095a8Ce,848,Exception State,Low,games(uint256),848,110,670,575
+Pirate Conquest,0xd8b1fd887031aebbd65e59c0d09cd81ad4e1d149,583,External Call To Fixed Address,Low,prepurchase(uint32),583,107,3625,1974
+Pirate Conquest,0xd8b1fd887031aebbd65e59c0d09cd81ad4e1d149,764,External Call To Fixed Address,Low,prepurchase(uint32),764,107,42307,4216
+Pirate Conquest,0xa1a4edeca5f7c88901497b52843202b8bf41a2c7
+Pirate Conquest,0xd92decbb24505f48627444d6d4131610aad2f027,578,External Call To Fixed Address,Low,createKitties(),578,107,3283,1492
+Pirate Conquest,0xd92decbb24505f48627444d6d4131610aad2f027,858,External Call To Fixed Address,Low,createKitties(),858,107,395726,32090
+Pirate Conquest,0xd92decbb24505f48627444d6d4131610aad2f027,1115,External Call To Fixed Address,Low,getKitties(),1115,107,3352,1561
+Pirate Conquest,0x6e10e8f202ced220791043df74aa84615caec537,946,Integer Overflow,High,tokensOfkitty(uint32),946,101,3017,1321
+Pirate Conquest,0x6e10e8f202ced220791043df74aa84615caec537,967,Integer Overflow,High,tokensOfkitty(uint32),967,101,3527,1455
+Pirate Conquest,0x6e10e8f202ced220791043df74aa84615caec537,983,Integer Overflow,High,tokensOfkitty(uint32),983,101,3527,1455
+Pirate Conquest,0x6e10e8f202ced220791043df74aa84615caec537,3332,Exception State,Low,getKittyInfo(uint256),3332,110,1040,945
+Pirate Conquest,0x6e10e8f202ced220791043df74aa84615caec537,3923,Exception State,Low,kitties(uint256),3923,110,1088,993
+Pirate Conquest,0x507e04f88d500aabc1ed6f3ed23e8368beb7ff43,1766,Integer Overflow,High,tokensOfCaptain(uint32),1766,101,3778,1752
+Pirate Conquest,0x507e04f88d500aabc1ed6f3ed23e8368beb7ff43,1787,Integer Overflow,High,tokensOfCaptain(uint32),1787,101,4288,1886
+Pirate Conquest,0x507e04f88d500aabc1ed6f3ed23e8368beb7ff43,1803,Integer Overflow,High,tokensOfCaptain(uint32),1803,101,4288,1886
+Pirate Conquest,0x507e04f88d500aabc1ed6f3ed23e8368beb7ff43,4141,Exception State,Low,getCaptainInfo(uint256),4141,110,1354,929
+Pirate Conquest,0x507e04f88d500aabc1ed6f3ed23e8368beb7ff43,5993,Exception State,Low,_function_0xf412511e,5993,110,1717,1292
+Pirate Conquest,0xa33a5adee9509405d9b9bc23e0ed0dddb8f331ae,1766,Integer Overflow,High,tokensOfCaptain(uint32),1766,101,3778,1752
+Pirate Conquest,0xa33a5adee9509405d9b9bc23e0ed0dddb8f331ae,1787,Integer Overflow,High,tokensOfCaptain(uint32),1787,101,4288,1886
+Pirate Conquest,0xa33a5adee9509405d9b9bc23e0ed0dddb8f331ae,1803,Integer Overflow,High,tokensOfCaptain(uint32),1803,101,4288,1886
+Pirate Conquest,0xa33a5adee9509405d9b9bc23e0ed0dddb8f331ae,4141,Exception State,Low,getCaptainInfo(uint256),4141,110,1354,929
+Pirate Conquest,0xa33a5adee9509405d9b9bc23e0ed0dddb8f331ae,5993,Exception State,Low,_function_0xf412511e,5993,110,1717,1292
+Pirate Conquest,0xb94a576a8bb6224bc3b4b8f1c634267f75cc47f6
+Pirate Conquest,0xc0d3a72edc15b4df241a49c374dd9ecd062655b0,575,External Call To Fixed Address,Low,prepurchase(uint32),575,107,3601,1950
+Pirate Conquest,0xc0d3a72edc15b4df241a49c374dd9ecd062655b0,727,External Call To Fixed Address,Low,prepurchase(uint32),727,107,41543,4112
